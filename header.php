@@ -10,8 +10,6 @@
     <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/fontawesome.css">
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">  
 
-    <script defer src="<?php bloginfo('template_directory'); ?>/js/fontawesome.js"></script>
-
     <title>DaveyMason.com</title>
   </head>
   <body> 
