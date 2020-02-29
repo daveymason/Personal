@@ -38,17 +38,17 @@
               </div>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle disabled" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="fas fa-tools navServicesIcon">
                 </i>
                 Services
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="https://daveymason.com/services/seo"><i class="fab fa-google navServicesIcon"></i> SEO</a>
-                <a class="dropdown-item" href="https://daveymason.com/services/wordpress-developer"><i class="fab fa-wordpress navServicesIcon"></i> WordPress</a> 	
-                <a class="dropdown-item" href="https://daveymason.com/games-tester"><i class="fas fa-bug navServicesIcon"></i> Games Tester</a>
-                <a class="dropdown-item" href="https://daveymason.com/services/front-end-developer"><i class="fas fa-tablet-alt navServicesIcon"></i> Front-end & UX</a>
-                <a class="dropdown-item" href="https://daveymason.com/services/web-developer"><i class="fas fa-globe navServicesIcon"></i> Web Development</a>
+                <a class="dropdown-item" href="https://daveymason.com/services/wordpress"><i class="fab fa-wordpress navServicesIcon"></i> WordPress</a> 	
+                <a class="dropdown-item" href="https://daveymason.com/gamestester"><i class="fas fa-bug navServicesIcon"></i> Games Tester</a>
+                <a class="dropdown-item" href="https://daveymason.com/services/front-end"><i class="fas fa-tablet-alt navServicesIcon"></i> Front-end & UX</a>
+                <a class="dropdown-item" href="https://daveymason.com/services/webdeveloper"><i class="fas fa-globe navServicesIcon"></i> Web Development</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="https://learnwithdavey.com"><i class="fas fa-graduation-cap navServicesIcon"></i> Online Teaching</a>
               </div>
