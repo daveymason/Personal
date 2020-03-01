@@ -3,7 +3,7 @@
 <div class="container-fluid" id="projectsWebsitesIntro">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <i class="fas fa-laptop projectsIntroIcon hvr-float-shadow"></i>
+                <i class="fas fa-laptop projectsIntroIcon"></i>
                 <h1 class="display-2">Websites</h1>
                 <p>Beautifully Designed | Professionally Developed</p>
                 <a href="#websitesRow">
@@ -158,7 +158,7 @@
         <div class="col-sm-6 col-xs-12">
           <div class="card text-center transparent topMargin bottomMargin">
             <div class="card-header transparent">
-              <i class="fas fa-file-code pageDevelopIcon hvr-float-shadow"></i>
+              <i class="fas fa-file-code pageDevelopIcon"></i>
               <br>
             </div>
             <div class="card-body">

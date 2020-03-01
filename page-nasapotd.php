@@ -2,7 +2,7 @@
 
 <div class="main">
     <div class="container">
-      <p id="pText"> Below is the NASA picture of the day. Please have a little patience, while NASA could send people tot he moon in 1969 their API is a little slow in 2020 for some reason.</p>
+      <p class="text-center"> Below is the NASA picture of the day. Please have a little patience, while NASA could send people tot he moon in 1969 their API is a little slow in 2020 for some reason.</p>
         <div id="output">
           <tag id="img"> </tag>
           <p id="copyright">Author(if accredited): </p>

@@ -56,7 +56,7 @@
         <div class="col-sm-6 col-xs-12">
           <div class="card text-center transparent topMargin bottomMargin">
             <div class="card-header transparent">
-              <i class="fas fa-laptop pageDevelopIcon hvr-float-shadow"></i>
+              <i class="fas fa-laptop pageDevelopIcon"></i>
               <br>
             </div>
             <div class="card-body">
@@ -70,7 +70,7 @@
         <div class="col-sm-6 col-xs-12">
           <div class="card text-center transparent topMargin bottomMargin">
             <div class="card-header transparent">
-              <i class="fas fa-gamepad pageDevelopIcon hvr-float-shadow"></i>
+              <i class="fas fa-gamepad pageDevelopIcon"></i>
               <br>
             </div>
             <div class="card-body">
