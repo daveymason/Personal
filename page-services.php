@@ -3,7 +3,7 @@
 <div class="container-fluid" id="servicesIntro">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <i class="fas fa-tools servicesIntroIcon hvr-float-shadow"></i>
+                <i class="fas fa-tools servicesIntroIcon"></i>
                 <h1 class="display-2">Services</h1>
                 <p>A range of digital solutions</p>
                 <a href="#websitesRow">

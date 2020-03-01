@@ -3,7 +3,7 @@
 <div class="container-fluid" id="projectsIntro">
         <div class="row">
             <div class="col-sm-12 text-center bottomMargin">
-                <i class="fas fa-code projectsIntroIcon hvr-float-shadow"></i>
+                <i class="fas fa-code projectsIntroIcon"></i>
                 <h1 class="display-2">Projects</h1>
                 <p class="bottomMargin">Websites | Games | Other</p>
                 <a href="#projectContainer">

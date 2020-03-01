@@ -3,7 +3,7 @@
 <div class="container-fluid" id="servicesWordpressIntro">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <i class="fab fa-wordpress servicesIntroIcon hvr-float-shadow"></i>
+                <i class="fab fa-wordpress servicesIntroIcon"></i>
                 <h1 class="display-2">Wordpress</h1>
                 <p>Complete websites & fully customized themes and plug-ins</p>
                 <a href="#websitesRow">
