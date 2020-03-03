@@ -1015,3 +1015,36 @@ Version: 0.1
 .btnRightArrow{
   animation: swing 3s linear 0s infinite forwards;
 }
+
+#servicesWebDevIntro{
+  color: whitesmoke;
+  /* background: linear-gradient(90deg, #525252, #080808); */
+  background-image: url("Images/servicesWebDevIntro.jpg"), linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8%;
+  padding-bottom: 2%;
+}
+
+#servicesFEDIntro{
+  color: whitesmoke;
+  /* background: linear-gradient(90deg, #525252, #080808); */
+  background-image: url("Images/servicesFEDIntro.jpg"), linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8%;
+  padding-bottom: 2%;
+}
+
+#servicesGamesIntro{
+  color: whitesmoke;
+  /* background: linear-gradient(90deg, #525252, #080808); */
+  background-image: url("Images/servicesGamesIntro.jpg"), linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8%;
+  padding-bottom: 2%;
+}

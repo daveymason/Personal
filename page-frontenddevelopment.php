@@ -1,12 +1,12 @@
 <?php get_header() ?>
 
-<div class="container-fluid" id="servicesSeoIntro">
+<div class="container-fluid" id="servicesFEDIntro">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <i class="fab fa-google servicesIntroIcon"></i>
-                <h1 class="display-2">SEO</h1>
-                <p>Get your website seen on the first page of Google.</p>
-                <a href="#SEOServices">
+                <i class="fas fa-globe servicesIntroIcon"></i>
+                <h1 class="display-2">Front-End Development</h1>
+                <p>Beautiful responsive design, across all devices and browsers.</p>
+                <a href="#websitesRow">
                     <i class="fas fa-arrow-down servicesIconIntro"></i>
                 </a>
             </div>
@@ -16,10 +16,10 @@
 <div class="container-fluid" id="servicesContainer">
     <div class="row bottomMargin" id="SEOServices">
         <div class="col-sm-12 text-center whiteOverlay">
-            <h2 class="display-3"><i class="fab fa-google navServicesIcon">
+            <h2 class="display-3"><i class="fas fa-globe navServicesIcon">
             </i>
-            SEO Services</h2>
-            <p>More than just a plug-in </p>
+            Front-End Services</h2>
+            <p>Toolkit and Expertise </p>
         </div>
     </div>
 
@@ -27,24 +27,21 @@
         <div class="col-sm-12">
             <div class="card bottomMargin cardNav">
                 <div class="card-header headerNav">
-                    <h2>SEO Solutions to meet your needs</h2>
+                    <h2>Front-End Solutions to meet your needs</h2>
                 </div>
                 <div class="card-body">
                     <div class="row">
                         <div class="col-xs-12">
                             <ul>
-                                <li>Schema </li>
-                                <li>SEO audit</li>
-                                <li>Technical SEO </li>
-                                <li>SEO competitor reports </li> 
-                                <li>Content review and development </li>
-                                <li>Keyword research and keyword density</li>
-                                <li>Sitemaps for Google and Bing search engines </li>
+                                <li>HTML/CSS/JS</li>
+                                <li>Bootstrap & jQuery</li>
+                                <li>React and Redux </li>
+                                <li>Components bundled with Webpack </li> 
+                                <li>Gitlab CI with Docker for CI/CD </li>
+                                <li>Keep stylesheets semantically aswesome</li>
+                                <li>SOLID understanding of coding best practices </li>
                                 <li>Pingdom, Google page rankings and G-Metrix </li>
-                                <li>Image optimisation for SEO including alt tags </li>
-                                <li>Complete website optimization – Speed and responsiveness matters! </li>
-                                <hr>
-                                <li><a href="https://daveymason.com/services/wordpress">Wordpress</a> SEO with Yoast, All-in-One SEO and Smartcrawl </li> 
+                                <li>Never DRY, design patterns are used intelligently </li> 
                             </ul>
                         </div>
                     </div>
@@ -52,11 +49,10 @@
              </div>
         </div>
     </div> <!-- id="websitesRow" -->
-    
 
     <div class="row" id="wordpressRow">
         <div class="col-xs-12 col-sm-6 text-center">
-            <p><a class="btn btn-projects btn-lg btn-block" href="https://daveymason.com/projects/websites" role="button"><i class="fas fa-laptop navDevelopIcon"></i> Websites <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+            <p><a class="btn btn-projects btn-lg btn-block" href="https://daveymason.com/projects/" role="button"><i class="fas fa-laptop navDevelopIcon"></i> Projects <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
         <div class="col-xs-12 col-sm-6 text-center">
             <p><a class="btn btn-contact btn-lg btn-block" href="https://daveymason.com/contact" role="button"><i class="fas fa-comment-dots"></i> Contact <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
