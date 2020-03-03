@@ -45,8 +45,8 @@
                 <a class="dropdown-item" href="https://daveymason.com/services/seo"><i class="fab fa-google navServicesIcon"></i> SEO</a>
                 <a class="dropdown-item" href="https://daveymason.com/services/wordpress"><i class="fab fa-wordpress navServicesIcon"></i> WordPress</a> 	
                 <a class="dropdown-item" href="https://daveymason.com/gamestester"><i class="fas fa-bug navServicesIcon"></i> Games Tester</a>
-                <a class="dropdown-item" href="https://daveymason.com/services/front-end"><i class="fas fa-tablet-alt navServicesIcon"></i> Front-end & UX</a>
-                <a class="dropdown-item" href="https://daveymason.com/services/webdeveloper"><i class="fas fa-globe navServicesIcon"></i> Web Development</a>
+                <a class="dropdown-item" href="https://daveymason.com/services/frontenddevelopment"><i class="fas fa-tablet-alt navServicesIcon"></i> Front-end & UX</a>
+                <a class="dropdown-item" href="https://daveymason.com/services/webdevelopment"><i class="fas fa-globe navServicesIcon"></i> Web Development</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="https://learnwithdavey.com"><i class="fas fa-graduation-cap navServicesIcon"></i> Online Teaching</a>
               </div>

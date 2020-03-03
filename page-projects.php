@@ -25,7 +25,7 @@
         <div class="col-sm-4">
           <div class="card text-center transparent topMargin bottomMargin whiteOverlay">
             <div class="card-header transparent">
-              <i class="fas fa-laptop pageDevelopIcon hvr-float-shadow"></i>
+              <i class="fas fa-laptop pageDevelopIcon"></i>
               <br>
             </div>
             <div class="card-body">
