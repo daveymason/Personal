@@ -19,17 +19,16 @@
           </div>
           </div>
         <div class="col-sm-6 col-xs-12">
-          <div class="card bottomMargin text-center transparent">
+          <div class="card bottomMargin text-center">
             <div class="card-header cardHeadGreen">
               <h2>Online Query</h2>
             </div>
             <div class="card-body">
-              <h5 class="card-title  servicesPadding">Form here</h5>
+              <?php echo do_shortcode("[speedy_contact_form]"); ?>
             </div>
           </div>
         </div>
       </div>
-      <!-- Add Form here-->
     </div>
 
 <footer>
