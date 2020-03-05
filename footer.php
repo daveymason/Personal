@@ -1,33 +1,41 @@
-<div class="container" id="Contact">
+	<div class="container" id="Contact">
       <div class="row bottomMargin">
-        <div class="col-sm-12 text-center bottomMargin servicesPadding">
+        <div class="col-sm-12 text-center servicesPadding">
           <h2 class="display-3"><i class="fas fa-comment-dots">
           </i>
           Contact</h2>
-          <p class="bottomMargin">Interested in my services?</p>
+          <p>Interested in my services?</p>
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-6 col-xs-12 centerAll">
-          <div>
-            Wechat:
-            <button type="button" class="btn hvr-float-shadow"><a href="weixin://dl/chat?{TravelingCorkonian}" target="_blank"><i class="far fa-comment-dots bigStyleContact"></i></a></button> <br>
-          </div>  
-          <div>
-            E-mail:
-            <button type="button" class="btn hvr-float-shadow"><a href="#" target="_blank"><i class="far fa-envelope bigStyleContact"></i></a></button>
+        <div class="col-sm-6 col-xs-12 centerAll bottomMargin">
+          <div class="card text-center">
+            <div class="card-header cardHeadGreen">
+              <h2>E-mail Me</h2>
+            </div>
+            <div class="card-body">
+             <button type="button" class="btn hvr-float-shadow"><a href="mailto:daveymason@outlook.com" target="_blank"><i class="far fa-envelope bigStyleContact ServIconShake1"></i></a></button>
+
+              <p class="textPadding">For <b>website design</b>, <b>website development</b>, <b>SEO</b>, gaming services, <b>online teaching</b>, domains, <b>website hosting</b>, <b>Wordpress</b> websites, design and development; or any other web services that you might need feel free to e-mail me by clicking on the icon above or directly - <a href="mailto:daveymason@outlook.com" target="_blank">daveymason@outlook.com</a></p>
+              <p><a class="btn btn-contact btn-lg" href="mailto:daveymason@outlook.com" role="button">E-mail now <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+            </div>
           </div>
-          </div>
+        </div>
+        
         <div class="col-sm-6 col-xs-12">
-          <div class="card bottomMargin text-center">
+          <div class="card bottomMargin centerAll">
             <div class="card-header cardHeadGreen">
               <h2>Online Query</h2>
             </div>
             <div class="card-body">
+              <h6> Fill out this form and I'll get back to you soon. </h6>
+              <br>
               <?php echo do_shortcode("[speedy_contact_form]"); ?>
+              <hr>
+              <p> By the way, this form was built using my very own contact form plug-in for WordPress. I got tired of using contact forms that slowed my site down so I built my own. Check out <a href="https:/daveymason.com/projects/other/speedycontactform"> Speedy Contact Form</a>.</p>
             </div>
-          </div>
-        </div>
+          </div> <!-- Card -->
+        </div> <!-- Col -->
       </div>
     </div>
 

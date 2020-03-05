@@ -176,6 +176,7 @@ Version: 0.1
 
   #whiteSep{
     background-color:whitesmoke;
+    /* border-top: 0px solid whitesmoke; */
   }
   
   
@@ -1048,3 +1049,40 @@ Version: 0.1
   padding-top: 8%;
   padding-bottom: 2%;
 }
+
+.btn-scf:hover{
+  background-color: white;
+  color: lightgreen;
+  border: 1px solid lightgreen;
+  transition: 1000ms;
+}
+
+.btn-scf{
+  background-color: lightgreen;
+  color: white;
+  transition: 1000ms;
+  /* margin: 4% 2% 2% 2%; */
+}
+
+@media only screen and (min-width: 992px) {
+  .SCFTwoColumn1{
+    width: 50%;
+    float: left;
+  }
+  
+  .SCFTwoColumn3{
+    width: 50%;
+    float: right;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .SCFTwoColumn1{
+    width: 100%;
+  }
+  
+  .SCFTwoColumn3{
+    width: 100%;
+  }
+}
+
