@@ -30,9 +30,7 @@
             <div class="card-body">
               <h6> Fill out this form and I'll get back to you soon. </h6>
               <br>
-              <?php echo do_shortcode("[speedy_contact_form]"); ?>
-              <hr>
-              <p> By the way, this form was built using my very own contact form plug-in for WordPress. I got tired of using contact forms that slowed my site down so I built my own. Check out <a href="https:/daveymason.com/projects/other/speedycontactform"> Speedy Contact Form</a>.</p>
+              <?php echo do_shortcode( '[weforms id="134"]' ); ?>
             </div>
           </div> <!-- Card -->
         </div> <!-- Col -->

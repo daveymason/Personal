@@ -1069,6 +1069,24 @@ Version: 0.1
 	padding-left: 2% !important;
 }
 
+.form-label-left{
+	list-style-type: none;
+	padding-left: 2% !important;
+}
+
+.weforms_submit_btn{
+  background-color: lightgreen;
+  color: white;
+  transition: 1000ms;
+}
+
+.weforms_submit_btn:hover{
+  background-color: white;
+  color: lightgreen;
+  border: 1px solid lightgreen;
+  transition: 1000ms;
+}
+
 /* @media only screen and (min-width: 992px) {
   .SCFTwoColumn1{
     width: 50%;
