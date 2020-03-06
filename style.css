@@ -1063,8 +1063,13 @@ Version: 0.1
   transition: 1000ms;
   /* margin: 4% 2% 2% 2%; */
 }
+/* WeForm */
+.weforms-134{
+	list-style-type: none;
+	padding-left: 2% !important;
+}
 
-@media only screen and (min-width: 992px) {
+/* @media only screen and (min-width: 992px) {
   .SCFTwoColumn1{
     width: 50%;
     float: left;
@@ -1084,5 +1089,5 @@ Version: 0.1
   .SCFTwoColumn3{
     width: 100%;
   }
-}
+} */
 
