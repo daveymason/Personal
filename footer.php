@@ -30,7 +30,7 @@
             <div class="card-body">
               <h6> Fill out this form and I'll get back to you soon. </h6>
               <br>
-              <?php echo do_shortcode( '[weforms id="134"]' ); ?>
+              <?php echo do_shortcode( '[wpforms id="130"' ); ?>
             </div>
           </div> <!-- Card -->
         </div> <!-- Col -->
