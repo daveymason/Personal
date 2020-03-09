@@ -90,7 +90,7 @@
               </a>
               <div class="media-body">
                 <h4 class="media-heading"> Online learning</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Ideas from MOOC's and the latest on the world of online learning.</p>
               </div>
             </div>
             
