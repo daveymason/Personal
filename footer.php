@@ -80,7 +80,7 @@
               </a>
               <div class="media-body">
                 <h4 class="media-heading"> Games</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Some meme, writings and images from games that I like to play.</p>
               </div>
             </div>
             
