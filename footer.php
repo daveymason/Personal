@@ -70,7 +70,7 @@
               </a>
               <div class="media-body">
                 <h4 class="media-heading"> Development</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Some of the tools I'm learning, or the latest trends in the dev world. </p>
               </div>
             </div>
             
