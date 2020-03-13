@@ -1065,22 +1065,27 @@ Version: 0.1
 }
 /* WeForm */
 .weforms-134{
-	list-style-type: none;
+	list-style-type: none !important;
+	padding-left: 2% !important;
+}
+
+.wpuf-form{
+  list-style-type: none !important;
 	padding-left: 2% !important;
 }
 
 .form-label-left{
-	list-style-type: none;
+	list-style-type: none !important;
 	padding-left: 2% !important;
 }
 
-.weforms_submit_btn{
+ .weforms_submit_btn{
   background-color: lightgreen;
   color: white;
   transition: 1000ms;
 }
 
-.weforms_submit_btn:hover{
+.weforms_submit_btn:hover {
   background-color: white;
   color: lightgreen;
   border: 1px solid lightgreen;

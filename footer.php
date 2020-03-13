@@ -45,14 +45,14 @@
             <h3 style="color:yellow;">Sitemap</h3>
             <ul class="list-unstyled three-column">
               <li><a href="https://daveymason.com">Home</a></li>
-              <li>Projects</li>
-              <li>Websites</li>
-              <li>Games</li>
+              <li><a href="https://daveymason.com/projects">Projects</a></li>
+              <li><a href="https://daveymason.com/projects/websites">Websites</a></li>
+              <li><a href="https://daveymason.com/projects/games">Games</li>
               <li>SEO</li>
               <li>Wordpress</li>
               <li>Blog</li>
               <li>Affiliate</li>
-              <li>Contact</li>
+              <li><a href="https://daveymason.com/contact">Contact</li>
             </ul>
             <ul class="list-unstyled social-list">
               <li class="hvr-float-shadow"><a href="https://www.linkedin.com/in/david-mason-1623277b/" target="_blank"><i class="fab fa-linkedin-in footerStyleLi"></i></a></li>
