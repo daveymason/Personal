@@ -47,18 +47,18 @@
               <li><a href="https://daveymason.com">Home</a></li>
               <li><a href="https://daveymason.com/projects">Projects</a></li>
               <li><a href="https://daveymason.com/projects/websites">Websites</a></li>
-              <li><a href="https://daveymason.com/projects/games">Games</li>
-              <li>SEO</li>
-              <li>Wordpress</li>
-              <li>Blog</li>
-              <li>Affiliate</li>
-              <li><a href="https://daveymason.com/contact">Contact</li>
+              <li><a href="https://daveymason.com/projects/games">Games</a></li>
+              <li><a href="https://daveymason.com/services/seo">SEO</a></li>
+              <li><a href="https://daveymason.com/services/wordpress">Wordpress</a></li>
+              <li><a href="https://daveymason.com/blog">Blog</a></li>
+              <li><a href="https://daveymason.com/affiliate">Affiliate</a></li>
+              <li><a href="https://daveymason.com/contact">Contact</a></li>
             </ul>
             <ul class="list-unstyled social-list">
               <li class="hvr-float-shadow"><a href="https://www.linkedin.com/in/david-mason-1623277b/" target="_blank"><i class="fab fa-linkedin-in footerStyleLi"></i></a></li>
               <li class="hvr-float-shadow"><a href="https://www.github.com/davidmason5" target="_blank"><i class="fab fa-github footerStyleGh"></i></a></li>
               <li class="hvr-float-shadow"><a href="#" target="_blank"><i class="fas fa-id-card footerStyleCV"></i></a></li>
-              <li class="hvr-float-shadow"><a href="#" target="_blank"><i class="far fa-envelope footerStyleEmail"></i></a></li>
+              <li class="hvr-float-shadow"><a href="mailto:daveymason@outlook.com" target="_blank"><i class="far fa-envelope footerStyleEmail"></i></a></li>
             </ul>
           </div>
           

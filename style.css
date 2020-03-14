@@ -1063,11 +1063,7 @@ Version: 0.1
   transition: 1000ms;
   /* margin: 4% 2% 2% 2%; */
 }
-/* WeForm */
-.weforms-134{
-	list-style-type: none !important;
-	padding-left: 2% !important;
-}
+/* WpForm */
 
 .wpuf-form{
   list-style-type: none !important;
@@ -1079,13 +1075,13 @@ Version: 0.1
 	padding-left: 2% !important;
 }
 
- .weforms_submit_btn{
+ .wpforms-submit {
   background-color: lightgreen;
   color: white;
   transition: 1000ms;
 }
 
-.weforms_submit_btn:hover {
+.wpforms-submit :hover {
   background-color: white;
   color: lightgreen;
   border: 1px solid lightgreen;
