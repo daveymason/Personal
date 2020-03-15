@@ -65,7 +65,7 @@
           <div class="col-lg-4 col-md-6">
             <h3><span style="color: violet;">Favourite</span><span style="color: blue;"> Articles</span></h3>
             <div class="media">
-              <a href="#" class="pull-left">
+              <a href="https://daveymason.com/blog/development" class="pull-left">
                 <img src="https://daveymason.com/wp-content/themes/Personal/Images/blogThumbDev.jpg" alt="" class="media-object hvr-float-shadow" />
               </a>
               <div class="media-body">
