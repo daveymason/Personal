@@ -168,7 +168,7 @@
                 <br>
                 <h4> Check out my WordPress Maintenance Package </h4>
                 <br>
-                <p><a class="btn btn-WpPb btn-lg" href="https://daveymason.com/services/wordpress" role="button">Learn More <i class="fas fa-angle-double-right btnRightArrow"></i></a></p> 	
+                <p><a class="btn btn-WpPb btn-lg" href="https://fatheadsolutions.com/web-hosting" role="button">Learn More <i class="fas fa-angle-double-right btnRightArrow"></i></a></p> 	
             </div>
         </div>
     </div>
