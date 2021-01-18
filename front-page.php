@@ -6,7 +6,7 @@
             <div class="col-sm-8 text-center">
                 <h1 class="display-3">Web Developer</h1>
                 <p>Tech Enthusiast | Hardcore Gamer | Space Geek.</p>
-                <p><a class="btn btn-primary btn-lg hvr-float-shadow" href="#" role="button">Projects »</a></p>
+                <p><a class="btn btn-primary btn-lg hvr-float-shadow" href="/daveymason.com/projects" role="button">Projects »</a></p>
             </div>
             <div class="col-sm-4">
               <div class="rowSocial">
