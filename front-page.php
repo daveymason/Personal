@@ -20,7 +20,7 @@
 
       <div class="container-fluid" id="About"> -->
         <div class="row">
-          <div class="col-sm-8">
+          <div class="col-sm-7">
             <div class="card bottomMargin">
               <div class="card-header cardHeadGreen">
                 <h2>Credentials</h2>
@@ -35,13 +35,15 @@
                 </ul>
               </div>
             </div>
+          </div>
             
+          <div class="col-sm-5">
             <div class="card bottomMargin">
               <div class="card-header cardHeadYellow">
                 <h2>Tech Stack</h2>
               </div>
               <div class="card-body">
-                <p>My most used and favorite tools </p>
+                <!-- <p>My most used and favorite tools </p> -->
                 <i class="fab fa-html5 techStackIcon"></i>            
                 <i class="fab fa-css3-alt techStackIcon"></i>
                 <i class="fab fa-js-square techStackIcon"></i>           
@@ -60,7 +62,8 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4">
+         </div><!-- row  -->
+          <!-- <div class="col-sm-4">
             <div class="card text-center borderless">
               <div class="card-header cardHeadViolet">
                 <h2>About</h2>
@@ -69,7 +72,7 @@
                 <h5 class="card-title">Naturally logical, curious & analytical. <br> I love all things technological.</h5>
                 <img class="img-responsive" src="https://daveymason.com/wp-content/themes/Personal/Images/Davey Mason.jpg" alt="Davey Mason" width="75%" height="auto"> 
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
     </div>
@@ -161,139 +164,11 @@
       </div>
     </div>
 
-    <hr class="affiliateSplit">
+    <!-- <hr class="affiliateSplit">
 
-    <div class="container-fluid" id="Affiliate">
-      <div class="row bottomMargin">
-        <div class="col-sm-12 text-center bottomMargin servicesPadding">
-          <h2 class="display-3"><i class="fas fa-bullseye">
-          </i>
-          Affiliate</h2>
-          <p class="bottomMargin">Products | Services | Recommendations</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-8">
-          <div class="card bottomMargin text-center">
-            <div class="card-header cardHeadYellow">
-              <h2>Why affiliate?</h2>
-            </div>
-            <div class="card-body affCard">
-              <h5 class="card-title  servicesPadding">I appreciate quality and would like to share a good 
-                product or service at the right value. Affiliate marketing helps me to get the most of a service while
-                 sharing it's value with my websites users.</h5>
-              <p><a class="btn btn-affiliate btn-lg" href="" role="button">Learn More >></a></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-4 centerAll">
-            <button type="button" class="btn hvr-float-shadow"><a href="#" target="_blank"><i class="fas fa-chart-line bigStyleAff"></i></a></button>
-        </div>
-      </div>
-      <div class="bottomMarginLarge"></div>
-      <div class="row">
-        <div class="col-sm-4 centerAll"> 
-          <button type="button" class="btn hvr-float-shadow"><a href="#" target="_blank"><i class="fas fa-comment-dots bigStyleAffComment"></i></a></button>
-        </div>
-        <div class="col-sm-8">
-          <div class="card bottomMargin text-center">
-            <div class="card-header cardHeadYellow">
-              <h2>Affiliate with me</h2>
-            </div>
-            <div class="card-body affCard">
-              <h5 class="card-title servicesPadding">If you have a product or service that you think I might value and would want to share here, you can let me know by e-mailing <a href="affiliates@daveymason.com">affiliates@daveymason.com</a> or check out my contact page for more ways to reach out.</h5>
-              <p><a class="btn btn-affiliate btn-lg" href="" role="button">Contact >></a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
 
-    <hr class="blogSplit">
+    <hr class="blogSplit"> -->
 
-    <div class="container-fluid" id="Blog">
-      <div class="row bottomMargin">
-        <div class="col-sm-12 text-center bottomMargin servicesPadding" id="whiteText">
-          <h2 class="display-3"><i class="fas fa-pen">
-          </i>
-          Blog</h2>
-          <p class="bottomMargin">A mix of things that interest me</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-8">
-          <div class="card bottomMargin text-center">
-            <div class="card-header cardHeadRed" id="whiteText">
-              <h2>Blog posts</h2>
-            </div>
-            <div class="card-body">
-              <?php if(have_posts()): ?>
-                <?php while(have_posts()) : the_post(); ?>
-                <article class="post">
-                  <div class="row">
-                    <?php if(has_post_thumbnail()): ?>
-                      <div class="col-md-3">
-                        <div class="post-thumbnail">
-                          <?php the_post_thumbnail(); ?>
-                        </div>
-                      </div> <!-- col=md3 -->
-                      <div class="col-md-9">
-                        <h2>
-                          <a href="<?php echo the_permalink();?>">
-                           <?php echo the_title(); ?>
-                          </a>
-                        </h2>
 
-                        <p class="meta">
-                          Posted at <?php the_time(); ?> on <?php the_date(); ?>
-                        </p>
-
-                        <div class="excerpt">
-                        <?php echo get_the_excerpt(); ?>
-                        </div>
-
-                        <br>
-                        
-                        <a class="btn btn-blog" href="<?php the_permalink(); ?>">
-                        Read More &raquo;
-                        </a>
-                      </div>
-                      <?php else : ?>
-                        <div class="col-md-12">
-                          <h2>
-                            <a href="<?php echo the_permalink();?>">
-                            <?php echo the_title(); ?>
-                            </a>
-                          </h2>
-
-                          <p class="meta">
-                          Posted at <?php the_time(); ?> on <?php the_date(); ?>
-                        </p>
-
-                        <div class="excerpt">
-                        <?php echo get_the_excerpt(); ?>
-                        </div>
-
-                        <br>
-
-                        <a class="btn btn-blog" href="<?php the_permalink(); ?>">
-                        Read More &raquo;
-                        </a>
-
-                        </div>
-                    <?php endif; ?>
-                  </div><!-- row -->
-                </article>
-                <?php endwhile; ?>
-                  <?php endif; ?>
-            </div> <!-- card-body -->
-          </div> <!-- card -->
-        </div> <!-- col-sm-8 -->
-        <div class="col-sm-4 centerAll">
-            <button type="button" class="btn hvr-float-shadow"><a href="#" target="_blank"><i class="fas fa-chart-line bigStyleAff"></i></a></button>
-        </div>
-      </div> <!-- row -->
-      <!-- Add WP Cdde here for the blog section-->
-    </div> <!-- Blog container-fluid -->
 
 <?php get_footer(); ?>
