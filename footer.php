@@ -8,7 +8,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-6 col-xs-12 centerAll bottomMargin">
+        <div class="col-xs-12 centerAll bottomMargin">
           <div class="card text-center">
             <div class="card-header cardHeadGreen">
               <h2>E-mail Me</h2>
@@ -22,7 +22,7 @@
           </div>
         </div>
         
-        <div class="col-sm-6 col-xs-12">
+        <!-- <div class="col-sm-6 col-xs-12">
           <div class="card bottomMargin centerAll">
             <div class="card-header cardHeadGreen">
               <h2>Online Query</h2>
@@ -30,10 +30,10 @@
             <div class="card-body">
               <h6> Fill out this form and I'll get back to you soon. </h6>
               <br>
-              <?php echo do_shortcode( '[wpforms id="130"]' ); ?>
+              <?php /* echo do_shortcode( '[wpforms id="130"]' ); */?> 
             </div>
-          </div> <!-- Card -->
-        </div> <!-- Col -->
+          </div>  Card 
+        </div>  -->
       </div>
     </div>
 
