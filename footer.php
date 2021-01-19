@@ -98,10 +98,10 @@
           
           <div class="col-lg-4">
             <h3><span style="color: red;">Latest</span><span style="color: lightgreen;"> Projects</span></h3>
-            <a target="_blank" href="https://getthejobyouwant.ie"><img class="img-thumbnail hvr-float-shadow" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsGtjywThumb.png" alt="" /></a>
-            <a target="_blank" href="https://high-js.com"><img class="img-thumbnail hvr-float-shadow" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsHighjsThumb.png" alt="" /></a>
-            <a target="_blank" href="https://terrifictaiyuan.com"><img class="img-thumbnail hvr-float-shadow" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsTerrificTaiyuanThumb.png" alt="" /></a>
-            <a target="_blank" href="http://bigpixmedia.ie"><img class="img-thumbnail hvr-float-shadow" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsBigPixThumb.png" alt="" /></a>
+            <a target="_blank" href="https://getthejobyouwant.ie"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsGtjywThumb.png" alt="" /></a>
+            <a target="_blank" href="https://high-js.com"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsHighjsThumb.png" alt="" /></a>
+            <a target="_blank" href="https://terrifictaiyuan.com"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsTerrificTaiyuanThumb.png" alt="" /></a>
+            <a target="_blank" href="http://bigpixmedia.ie"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsBigPixThumb.png" alt="" /></a>
           </div>
           
         </div>
