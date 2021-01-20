@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">  
 
     <title>DaveyMason.com</title>
+    <link rel="shortcut icon" type="image/jpg" href="https://daveymason.com/wp-content/uploads/2020/02/favicon.ico"/>
   </head>
   <body> 
       <nav class="navbar navbar-icon-top navbar-expand-lg navbar-dark bg-dark">
@@ -22,7 +23,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle" href="https://daveymason.com/projects" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="fas fa-code navDevelopIcon">
                 </i>
                 Development
@@ -36,7 +37,7 @@
               </div>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="https://daveymason.com/services/frontenddevelopment/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle" href="https://daveymason.com/services/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="fas fa-tools navServicesIcon">
                 </i>
                 Services

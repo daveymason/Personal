@@ -24,7 +24,7 @@
                   <div class="card-body">
                       <div class="row">
                           <div class="col-xs-12 col-md-4">
-                          <a target="_blank" href="https://eloquent-colden-14ba2b.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/gameTicTacToe.png" alt="Davey Mason" width="75%" height="auto"></a>
+                          <a target="_blank" href="https://eloquent-colden-14ba2b.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/gameTicTacToe.png" alt="Davey Mason" width="75%" height="auto"></a>
                       </div>
                           <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
                               <p class="paddedText"> A fun game that I built for my students when I thought them how to play Tic-Tac-Toe. It was also a reason to start building projects using <b>React</b> following the documentation on the site. I also had the chance to test out <b>Netifly's CI/CD</b> process which really impresed me. </p>

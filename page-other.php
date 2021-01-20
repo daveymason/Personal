@@ -25,7 +25,7 @@
                   <div class="card-body">
                       <div class="row">
                           <div class="col-xs-12 col-md-4">
-                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/otherPokedex.png" alt="Davey Mason" width="75%" height="auto"></a>
+                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/otherPokedex.png" alt="Davey Mason" width="75%" height="auto"></a>
                       </div>
                           <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
                               <p class="paddedText"> Written in <b>jQuery Mobile</b> I made my own JSON file of the first 151 Pokemon and learned a great deal about how to use it and output via HTML. I had great fun with this and enjoyed jQuery mobile very much. It's hosted on Netilfy to reinforce the CI/CD process learned.</p>
@@ -51,7 +51,7 @@
                   <div class="card-body">
                       <div class="row">
                           <div class="col-xs-12 col-md-4">
-                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/otherFatHeadLinks.png" alt="Davey Mason" width="75%" height="auto"></a>
+                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/otherFatHeadLinks.png" alt="Davey Mason" width="75%" height="auto"></a>
                       </div>
                           <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
                               <p class="paddedText"> A simple <b>WordPress plugin</b> that displays Social Media links in a WordPress widget area. The plugin was developed in <b>Php</b> and can be downloaded and installed easily for use. </p>
