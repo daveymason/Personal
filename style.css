@@ -365,13 +365,11 @@ Version: 0.1
     border: 0px !important;
   }
   
-  #Services{
-    background-color: #e7e4e4;
-  }
+ 
 
   .ServicesIcon{
     font-size: 5rem !important;
-    color:violet !important;
+    color:#ee82ee !important;
     margin-bottom: 20px;
     margin-top: 20px;
     transition: 500ms;
@@ -397,6 +395,17 @@ Version: 0.1
     animation: ServicesIconShake 5s linear 8s infinite alternate;
   }
   
+  #Services{
+    /* background-color: #ee82ee; */
+    background-color: #252525;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%2390ee90' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%232a8234' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23a3d8a3' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%233e7846' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23b6c3b6' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23526d58' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23c8adc8' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%2367636b' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23db98db' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%237b587d' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23ee82ee' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%238f4e8f' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+    /* background by SVGBackgrounds.com */
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+
   .btn-services{
     color: violet;
     background-color: white;
@@ -415,6 +424,18 @@ Version: 0.1
   
   .servicesPadding{
     padding: 30px 20px 30px 20px;
+  }
+
+  .projectsOnlySplit{
+    margin: 0;
+    border: 0;
+    height:15px;
+    background: #333; /* Chrome,Safari4+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,blue), color-stop(10%,blue), color-stop(10%,blue), color-stop(24%,blue), color-stop(24%,blue), color-stop(42%,blue), color-stop(42%,blue), color-stop(70%,blue), color-stop(70%,blue), color-stop(70%,blue), color-stop(100%,blue)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left,  blue 0%,blue 10%,blue 10%, blue 24%,blue 24%,blue 42%,blue 42%,blue 70%,blue 70%,blue 70%,blue 100%); /* Chrome10+,Safari5.1+ */
+    background-image: -moz-linear-gradient(left, blue 0%, blue 9%, blue 10%, blue 24%, blue 24%, blue 42%, blue 42%, blue 70%, blue 70%, blue 71%, blue 100%);
+    background-image: -o-linear-gradient(left, blue 0%, blue 9%, blue 10%, blue 24%, blue 24%, blue 42%, blue 42%, blue 70%, blue 70%, blue 71%, blue 100%);
+    background-image: linear-gradient(left, blue 0%, blue 9%, blue 10%, blue 24%, blue 24%, blue 42%, blue 42%, blue 70%, blue 70%, blue 71%, blue 100%); /* Chrome10+,Safari5.1+ */   
   }
   
   .projectsSplit{
@@ -435,7 +456,7 @@ Version: 0.1
     height:15px;
     background: #333; /* Chrome,Safari4+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%,violet), color-stop(10%,violet), color-stop(10%,lightgreen), color-stop(24%,lightgreen), color-stop(24%,violet), color-stop(42%,violet), color-stop(42%,lightgreen), color-stop(70%,lightgreen), color-stop(70%,lightgreen), color-stop(70%,violet), color-stop(100%,violet)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(left,  violet 0%,violet 10%,lightgreen 10%, lightgreen 24%,violet 24%,violet 42%,lightgreen 42%,lightgreen 70%,lightgreen 70%,violet 70%,violet 100%); /* Chrome10+,Safari5.1+ */
+    background: -webkit-linear-gradient(left,  violet 0%,violet 10%,lightgreen 10%, #90ee90 24%,violet 24%,violet 42%,lightgreen 42%,lightgreen 70%,lightgreen 70%,violet 70%,violet 100%); /* Chrome10+,Safari5.1+ */
     background-image: -moz-linear-gradient(left, violet 0%, violet 9%, lightgreen 10%, lightgreen 24%, violet 24%, violet 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, violet 71%, violet 100%);
     background-image: -o-linear-gradient(left, violet 0%, violet 9%, lightgreen 10%, lightgreen 24%, violet 24%, violet 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, violet 71%, violet 100%);
     background-image: linear-gradient(left, violet 0%, violet 9%, lightgreen 10%, lightgreen 24%, violet 24%, violet 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, violet 71%, violet 100%); /* Chrome10+,Safari5.1+ */   
@@ -1142,25 +1163,8 @@ Version: 0.1
   transition: 1000ms;
 }
 
-/* @media only screen and (min-width: 992px) {
-  .SCFTwoColumn1{
-    width: 50%;
-    float: left;
-  }
-  
-  .SCFTwoColumn3{
-    width: 50%;
-    float: right;
-  }
+/* Settings */
+.semiTransparant{
+  background-color: rgba(216, 186, 218, 0.383) !important;
 }
-
-@media only screen and (max-width: 992px) {
-  .SCFTwoColumn1{
-    width: 100%;
-  }
-  
-  .SCFTwoColumn3{
-    width: 100%;
-  }
-} */
 
