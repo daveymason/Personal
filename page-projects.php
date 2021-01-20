@@ -66,7 +66,7 @@
 
       <div class="card projectsCard">
       <div class="card-header cardHeadBlue" id="whiteText">
-        <h2>Personal</h2>
+        <h2>Fun with code</h2>
       </div>
         <div class="row" id="websitesRow">
           <div class="col-sm-12 col-xl-6 text-center">

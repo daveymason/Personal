@@ -41,6 +41,32 @@
           </div>
         </div> <!-- id="websitesRow" -->
 
+        <div class="row" id="websitesRow">
+            <div class="col-xs-12 text-center">
+              <div class="card cardNav">
+                  
+                  <div class="card-header headerNav">
+                      <h2><a href="https://festive-knuth-57fdf6.netlify.app/">WordPress plugin - Social Links!</a></h2>
+                  </div>
+                  <div class="card-body">
+                      <div class="row">
+                          <div class="col-xs-12 col-md-4">
+                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/otherFatHeadLinks.png" alt="Davey Mason" width="75%" height="auto"></a>
+                      </div>
+                          <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
+                              <p class="paddedText"> A simple <b>WordPress plugin</b> that displays Social Media links in a WordPress widget area. The plugin was developed in <b>Php</b> and can be downloaded and installed easily for use. </p>
+                          </div>
+                          <div class="col-xs-12 col-md-3 d-flex align-items-center gamesCenterButton">    
+                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/FatHeadLinks/archive/main.zip" role="button">Download <i class="far fa-arrow-alt-circle-down"></i></a> ~
+                                 <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/FatHeadLinks" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+                              </p>                       
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div> <!-- id="websitesRow" -->
+
 <!--
     <div class="row" id="websitesRow">
         <div class="col-sm-12 text-center">

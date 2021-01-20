@@ -50,8 +50,8 @@
               <li><a href="https://daveymason.com/projects/games">Games</a></li>
               <li><a href="https://daveymason.com/services/seo">SEO</a></li>
               <li><a href="https://daveymason.com/services/wordpress">Wordpress</a></li>
-              <li><a href="https://daveymason.com/blog">Blog</a></li>
-              <li><a href="https://daveymason.com/affiliate">Affiliate</a></li>
+              <li><a href="https://daveymason.com/services/frontenddevelopment/">Front End</a></li>
+              <li><a href="https://daveymason.com/services/webdevelopment/">Web Dev</a></li>
               <li><a href="https://daveymason.com/contact">Contact</a></li>
             </ul>
             <ul class="list-unstyled social-list">
@@ -80,7 +80,7 @@
               </a>
               <div class="media-body">
                 <h4 class="media-heading"> Games</h4>
-                <p>Some meme, writings and images from games that I like to play.</p>
+                <p>Some memes, writings and images from games that I like to play.</p>
               </div>
             </div>
             
@@ -99,7 +99,7 @@
           <div class="col-lg-4">
             <h3><span style="color: red;">Latest</span><span style="color: lightgreen;"> Projects</span></h3>
             <a target="_blank" href="https://getthejobyouwant.ie"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsGtjywThumb.png" alt="" /></a>
-            <a target="_blank" href="https://high-js.com"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsHighjsThumb.png" alt="" /></a>
+            <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsPokedexThumb.png" alt="" /></a>
             <a target="_blank" href="https://terrifictaiyuan.com"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsTerrificTaiyuanThumb.png" alt="" /></a>
             <a target="_blank" href="http://bigpixmedia.ie"><img class="img-thumbnail hvr-float-shadow" src="/daveymason.com/wp-content/themes/Personal/Images/projectsBigPixThumb.png" alt="" /></a>
           </div>
