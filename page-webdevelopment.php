@@ -68,7 +68,7 @@
     <div class="container-fluid" id="servicesPageBreak">
         <div class="row">
             <div class="col-xs-12 col-sm-12 text-center servicesPadding whiteOverlay paddedText">
-            <img class="img-responsive hvr-float-shadow bottomMargin" src="http://localhost/daveymason.com/wp-content/themes/Personal/Images/google.svg" alt="Davey Mason" width="20%" height="auto">
+            <img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/google.svg" alt="Davey Mason" width="20%" height="auto">
                 <h2 class="display-3">
                 The Complete Google suite</h2>
                 <br>
@@ -98,7 +98,7 @@
         <div class="card-body">
           <i class="fab fa-wordpress ServicesIcon ServIconShake1"></i>
           <h5 class="card-title textPadding">Need a custom theme or plugin? How about some security or a speed upgrade?</h5>
-          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/wordpress" role="button">Learn More >></a></p>
+          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/wordpress" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
       </div>
     </div>
@@ -110,7 +110,7 @@
         <div class="card-body">
           <i class="fas fa-tablet-alt ServicesIcon ServIconShake5"></i>
           <h5 class="card-title textPadding">Profficient in HTML, CSS & JavaScript, like every web developer should be.</h5>
-          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/frontenddeveloper" role="button">Learn More >></a></p>
+          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/frontenddeveloper" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
       </div>
     </div>
@@ -122,7 +122,7 @@
         <div class="card-body">
           <i class="fas fa-globe ServicesIcon ServIconShake3"></i>
           <h5 class="card-title textPadding">Design, development, domains, hosting or anything else that you might need.</h5>
-          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/webdeveloper" role="button">Learn More >></a></p>
+          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/webdeveloper" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
       </div>
     </div>
@@ -136,7 +136,7 @@
         <div class="card-body">
           <i class="fab fa-google ServicesIcon ServIconShake6"></i>
           <h5 class="card-title textPadding">Consulting or technical? Also comfortable with the entire Google suite.</h5>
-          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/seo" role="button">Learn More >></a></p>
+          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/seo" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
       </div>
     </div>
@@ -148,7 +148,7 @@
         <div class="card-body">
           <i class="fas fa-bug ServicesIcon ServIconShake2"></i>
           <h5 class="card-title textPadding">Playability, language testing, functionality, design, bugs. Anything you need!</h5>
-          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/gametester" role="button">Learn More >></a></p>
+          <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/gametester" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
         <div class="card-body">
           <i class="fas fa-graduation-cap ServicesIcon ServIconShake4"></i>
           <h5 class="card-title textPadding">Interested in doing what I do? Check out my online learning website. </h5>
-          <p><a class="btn btn-services btn-lg" href="https://learnwithdavey.com" role="button">Visit Site >></a></p>
+          <p><a class="btn btn-services btn-lg" href="https://learnwithdavey.com" role="button">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
         </div>
       </div>
     </div>

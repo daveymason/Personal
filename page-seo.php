@@ -70,7 +70,7 @@
     <div class="container-fluid" id="servicesPageBreak">
         <div class="row">
             <div class="col-xs-12 col-sm-12 text-center servicesPadding whiteOverlay paddedText">
-            <img class="img-responsive hvr-float-shadow bottomMargin" src="http://localhost/daveymason.com/wp-content/themes/Personal/Images/google.svg" alt="Davey Mason" width="20%" height="auto">
+            <img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/google.svg" alt="Davey Mason" width="20%" height="auto">
                 <h2 class="display-3">
                 The Complete Google suite</h2>
                 <br>
