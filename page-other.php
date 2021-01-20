@@ -14,30 +14,60 @@
 </div> <!-- #Intro -->
 <!-- FP: This next part should be a post loop -->
 <div class="container-fluid" id="projectsContainer">
+
+          <div class="row" id="websitesRow">
+            <div class="col-xs-12 text-center">
+              <div class="card cardNav">
+                  
+                  <div class="card-header headerNav">
+                      <h2><a href="https://festive-knuth-57fdf6.netlify.app/">Pokedex</a></h2>
+                  </div>
+                  <div class="card-body">
+                      <div class="row">
+                          <div class="col-xs-12 col-md-4">
+                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/otherPokedex.png" alt="Davey Mason" width="75%" height="auto"></a>
+                      </div>
+                          <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
+                              <p class="paddedText"> Written in <b>jQuery Mobile</b> I made my own JSON file of the first 151 Pokemon and learned a great deal about how to use it and output via HTML. I had great fun with this and enjoyed jQuery mobile very much. It's hosted on Netilfy to reinforce the CI/CD process learned.</p>
+                          </div>
+                          <div class="col-xs-12 col-md-3 d-flex align-items-center gamesCenterButton">    
+                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://festive-knuth-57fdf6.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+                                 <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/Pokedex" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+                            </p>                       
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div> <!-- id="websitesRow" -->
+
+<!--
     <div class="row" id="websitesRow">
         <div class="col-sm-12 text-center">
             <div class="card bottomMargin cardNav">
                 
                 <div class="card-header headerNav">
-                    <h2><a href="https://daveymason.com/projects/other/nasa-potd">NASA Picture of the day</a> - Stunning imagery, changes daily! </h2>
+                    <h2><a href="https://daveymason.com/projects/other/nasa-potd">NASA Picture of the day</a> </h2>
                 </div>
                 <div class="card-body">
                     <div class="row">
                         <div class="col-xs-12 col-md-4">
-                        <a target="_blank" href="https://daveymason.com/projects/other/nasapotd"><img class="img-responsive paddedText hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsOtherNasaThumb.jpg" alt="Davey Mason" width="75%" height="auto"></a>
+                        <a target="_blank" href="https://daveymason.com/projects/other/nasapotd"><img class="img-responsive paddedText hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/projectsOtherNasaThumb.jpg" alt="Davey Mason" width="75%" height="auto"></a>
                         </div>
 
                         <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
-                            <p class="paddedText"> See a beautiful image chosen by NASA every day. This project leverages the NASA API to display the image. All formatting was done in HTML, CSS & Bootstrap. Php was used to help the page display as part of the WordPress ecosystem. </p>
+                            <p class="paddedText"> See a beautiful image chosen by NASA every day. This project leverages the <b>NASA API</b> to display the image. All formatting was done in <b>HTML, CSS & Bootstrap</b>. Php was used to help the page display as part of the WordPress ecosystem. </p>
                         </div>
                         <div class="col-xs-12 col-md-3 d-flex align-items-center gamesCenterButton">
-                            <a class="btn btn-projectsWebsites btn-lg" href="https://daveymason.com/projects/other/nasapotd" role="button">View >></a>                      
+                            <p><a class="btn btn-projectsWebsites btn-lg" href="https://daveymason.com/projects/other/nasapotd" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+                            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/nasaPOTD" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>                      
+                            </p>
                         </div>
                     </div>
                 </div>
              </div>
         </div>
-    </div> <!-- id="websitesRow" -->
+    </div>  id="websitesRow" -->
     
 
 </div> <!-- id="projectsContainer" -->

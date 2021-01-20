@@ -14,10 +14,34 @@
 </div> <!-- #Intro -->
 <!-- FP: This next part should be a post loop -->
 <div class="container-fluid" id="projectsContainer">
+
+        <div class="row" id="websitesRow">
+          <div class="col-sm-12 text-center">
+              <div class="card cardNav"> 
+                  <div class="card-header headerNav">
+                      <h2><a href="https://eloquent-colden-14ba2b.netlify.app/">TIC-TAC-TOE</a></h2>
+                  </div>
+                  <div class="card-body">
+                      <div class="row">
+                          <div class="col-xs-12 col-md-4">
+                          <a target="_blank" href="https://eloquent-colden-14ba2b.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="/daveymason.com/wp-content/themes/Personal/Images/gameTicTacToe.png" alt="Davey Mason" width="75%" height="auto"></a>
+                      </div>
+                          <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
+                              <p class="paddedText"> A fun game that I built for my students when I thought them how to play Tic-Tac-Toe. It was also a reason to start building projects using <b>React</b> following the documentation on the site. I also had the chance to test out <b>Netifly's CI/CD</b> process which really impresed me. </p>
+                          </div>    
+                          <div class="col-xs-12 col-md-3 d-flex align-items-center gamesCenterButton">
+                          <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://eloquent-colden-14ba2b.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+                          <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/tic-tac-toe" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                      
+                         </div>
+                      </div>
+                  </div>
+              </div>
+          </div> <!-- col -->
+        </div>
+<!--
     <div class="row" id="websitesRow">
         <div class="col-sm-12 text-center">
             <div class="card bottomMargin cardNav">
-                
                 <div class="card-header headerNav">
                     <h2><a href="https://daveymason.com/projects/games/snake">Snake Strikes Back</a> - The classic, but with a twist. </h2>
                 </div>
@@ -37,7 +61,7 @@
                 </div>
              </div>
         </div>
-    </div> <!-- id="websitesRow" -->
+    </div>  id="websitesRow" -->
 </div> <!-- id="projectsContainer" -->
 
 <hr class="otherProjectsSplit">

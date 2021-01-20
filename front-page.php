@@ -229,6 +229,7 @@
               </div>
           </div>
       </div> <!-- id="websitesRow" -->
+      <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/projects" role="button">All Projects <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
   </div> <!-- Card -->
   <div class="bottomPadding"></div>
 </div>
