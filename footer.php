@@ -1,4 +1,4 @@
-	<div class="container" id="Contact">
+  <div class="container" id="Contact">
       <div class="row bottomMargin">
         <div class="col-sm-12 text-center servicesPadding">
           <h2 class="display-3"><i class="fas fa-comment-dots">
@@ -8,7 +8,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-xs-12 centerAll bottomMargin">
+        <div class="col-md-6 col-sm-12 centerAll bottomMargin">
           <div class="card text-center">
             <div class="card-header cardHeadGreen">
               <h2>E-mail Me</h2>
@@ -22,18 +22,16 @@
           </div>
         </div>
         
-        <!-- <div class="col-sm-6 col-xs-12">
+         <div class="col-md-6 col-sm-12">
           <div class="card bottomMargin centerAll">
             <div class="card-header cardHeadGreen">
               <h2>Online Query</h2>
             </div>
             <div class="card-body">
-              <h6> Fill out this form and I'll get back to you soon. </h6>
-              <br>
-              <?php /* echo do_shortcode( '[wpforms id="130"]' ); */?> 
+              <?php  echo do_shortcode( '[forminator_form id="124"]' ); ?> 
             </div>
-          </div>  Card 
-        </div>  -->
+          </div>  
+        </div>  
       </div>
     </div>
 
@@ -112,7 +110,9 @@
       </div>
     </footer>
 
+    
     <script src="<?php bloginfo('template_directory'); ?>/js/jquery.js" ></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.js"></script> 
   </body> 
 </html>
+<?php wp_footer(); ?>

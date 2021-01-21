@@ -307,13 +307,14 @@ Version: 0.1
   
 
   #Intro{
-    background-image: url("Images/daveymasonintrbackgroundimage.jpg");
+    /* background-image: url("Images/daveymasonintrbackgroundimage.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    /* height: 90vh;   */
+     height: 90vh;   */
     padding-right: 5%;
     padding-left: 5%;
-  }
+    background: linear-gradient(90deg, #525252, #080808);
+     }
   
   .halfSize{
     height: 45%;
@@ -323,7 +324,7 @@ Version: 0.1
     margin: 0;
   }
   .bottomPadding{
-    padding-bottom: 20px;
+    padding-bottom: 2%;
   }
   .bottomMargin{
     margin-bottom: 20px;
@@ -1137,7 +1138,7 @@ Version: 0.1
   /* margin: 4% 2% 2% 2%; */
 }
 
-/* WpForm */
+/* WpForm 
 .wpuf-form{
   list-style-type: none !important;
 	padding-left: 2% !important;
@@ -1159,7 +1160,7 @@ Version: 0.1
   color: lightgreen;
   border: 1px solid lightgreen;
   transition: 1000ms;
-}
+} */
 
 /* Settings */
 .semiTransparant{

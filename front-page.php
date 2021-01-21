@@ -3,12 +3,12 @@
       <hr id="whiteSep">
 
           <div class="row topMargin bottomPadding" id="whiteText">
-            <div class="col-sm-8 text-center">
+            <div class="col-sm-8 text-center bottomPadding">
                 <h1 class="display-3">Web Developer</h1>
                 <p>Tech Enthusiast | Hardcore Gamer | Space Geek.</p>
                 <p><a class="btn btn-primary btn-lg hvr-float-shadow" href="https://daveymason.com/projects" role="button">Projects »</a></p>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4 bottomPadding">
               <div class="rowSocial">
                 <button type="button" class="btn btn-li hvr-float-shadow"><a href="https://www.linkedin.com/in/david-mason-1623277b/" target="_blank"><i class="fab fa-linkedin-in bigStyleLi"></i></a></button>
                 <button type="button" class="btn btn-git hvr-float-shadow"><a href="https://www.github.com/davidmason5" target="_blank"><i class="fab fa-github bigStyleGh"></i></a></button>
@@ -19,7 +19,7 @@
         <!-- </div>
 
       <div class="container-fluid" id="About"> -->
-        <div class="row">
+        <div class="row bottomPadding">
           <div class="col-sm-12 col-md-6 hideMobile">
             <div class="card bottomMargin">
               <div class="card-header cardHeadGreen">
