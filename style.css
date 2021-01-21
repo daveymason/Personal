@@ -592,6 +592,12 @@ Version: 0.1
     background-size: cover;
   } 
   
+  #contactFooter{
+    max-width: 100%;
+    background-color: #ffffff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 200 200'%3E%3Cpolygon fill='%23eefaee' points='100 0 0 100 100 100 100 200 200 100 200 0'/%3E%3C/svg%3E");
+  }
+
   .btn-blog:hover{
     background-color:rgba(0, 0, 0, 0);
     border: 2px solid red;
@@ -978,6 +984,18 @@ Version: 0.1
   background-image: linear-gradient(left, violet 0%, violet 9%, lightgreen 10%, lightgreen 24%, violet 24%, violet 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, violet 71%, violet 100%); /* Chrome10+,Safari5.1+ */ 
 }
 
+.contactSplit{
+  margin: 0;
+  border: 0;
+  height:15px;
+  background: #333; /* Chrome,Safari4+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,lightgreen), color-stop(10%,lightgreen), color-stop(10%,yellow), color-stop(24%,yellow), color-stop(24%,lightgreen), color-stop(42%,lightgreen), color-stop(42%,yellow), color-stop(70%,yellow), color-stop(70%,yellow), color-stop(70%,lightgreen), color-stop(100%,lightgreen)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  lightgreen 0%,lightgreen 10%,lightgreen 10%, lightgreen 24%,lightgreen 24%,lightgreen 42%,lightgreen 42%,lightgreen 70%,lightgreen 70%,lightgreen 70%,lightgreen 100%); /* Chrome10+,Safari5.1+ */
+  background-image: -moz-linear-gradient(left, lightgreen 0%, lightgreen 9%, lightgreen 10%, lightgreen 24%, lightgreen 24%, lightgreen 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, lightgreen 71%, lightgreen 100%);
+  background-image: -o-linear-gradient(left, lightgreen 0%, lightgreen 9%, lightgreen 10%, lightgreen 24%, lightgreen 24%, lightgreen 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, lightgreen 71%, lightgreen 100%);
+  background-image: linear-gradient(left, lightgreen 0%, lightgreen 9%, lightgreen 10%, lightgreen 24%, lightgreen 24%, lightgreen 42%, lightgreen 42%, lightgreen 70%, lightgreen 70%, lightgreen 71%, lightgreen 100%); /* Chrome10+,Safari5.1+ */ 
+}
+
 #servicesPageBreak{
   color: whitesmoke;
   background: linear-gradient(90deg, #525252, #080808);
@@ -1132,35 +1150,18 @@ Version: 0.1
 }
 
 .btn-scf{
-  background-color: lightgreen;
+  background-color: #90ee90;
   color: white;
   transition: 1000ms;
   /* margin: 4% 2% 2% 2%; */
 }
 
-/* WpForm 
-.wpuf-form{
-  list-style-type: none !important;
-	padding-left: 2% !important;
+.card-image{
+  background-color: #212121;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Cpath fill='none' stroke-width='45.2' id='a' d='M0.74-509.63l485.39 352.65l-185.4 570.61h-599.97l-185.4-570.61L0.74-509.63 M0.74-510.87l-486.56 353.51l185.85 571.99h601.42L487.3-157.36L0.74-510.87L0.74-510.87z'/%3E%3C/defs%3E%3Cg transform='scale(0.424)' style='transform-origin:center'%3E%3Cg transform='rotate(29.52 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(-102.4 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 750)'%3E%3Cuse stroke='%23243d26' href='%23a' transform='rotate(6.4 0 0) scale(1.064)'/%3E%3Cuse stroke='%23254928' href='%23a' transform='rotate(12.8 0 0) scale(1.128)'/%3E%3Cuse stroke='%2326542b' href='%23a' transform='rotate(19.2 0 0) scale(1.192)'/%3E%3Cuse stroke='%2326602d' href='%23a' transform='rotate(25.6 0 0) scale(1.256)'/%3E%3Cuse stroke='%23266d2e' href='%23a' transform='rotate(32 0 0) scale(1.32)'/%3E%3Cuse stroke='%2325792f' href='%23a' transform='rotate(38.4 0 0) scale(1.384)'/%3E%3Cuse stroke='%23248630' href='%23a' transform='rotate(44.8 0 0) scale(1.448)'/%3E%3Cuse stroke='%23229330' href='%23a' transform='rotate(51.2 0 0) scale(1.512)'/%3E%3Cuse stroke='%2320a02f' href='%23a' transform='rotate(57.6 0 0) scale(1.576)'/%3E%3Cuse stroke='%231dad2e' href='%23a' transform='rotate(64 0 0) scale(1.64)'/%3E%3Cuse stroke='%2319ba2c' href='%23a' transform='rotate(70.4 0 0) scale(1.704)'/%3E%3Cuse stroke='%2315c829' href='%23a' transform='rotate(76.8 0 0) scale(1.768)'/%3E%3Cuse stroke='%2310d525' href='%23a' transform='rotate(83.2 0 0) scale(1.832)'/%3E%3Cuse stroke='%230ae31f' href='%23a' transform='rotate(89.6 0 0) scale(1.896)'/%3E%3Cuse stroke='%2304f115' href='%23a' transform='rotate(96 0 0) scale(1.96)'/%3E%3Cuse stroke='%230F0' href='%23a' transform='rotate(102.4 0 0) scale(2.024)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
 }
-
-.form-label-left{
-	list-style-type: none !important;
-	padding-left: 2% !important;
-}
-
- .wpforms-submit {
-  background-color: lightgreen;
-  color: white;
-  transition: 1000ms;
-}
-
-.wpforms-submit :hover {
-  background-color: white;
-  color: lightgreen;
-  border: 1px solid lightgreen;
-  transition: 1000ms;
-} */
 
 /* Settings */
 .semiTransparant{
@@ -1171,4 +1172,8 @@ Version: 0.1
   .hideMobile {
     display:none;
   }
+}
+
+.extraPadding{
+  padding:2% 12% 2% 12%;
 }
