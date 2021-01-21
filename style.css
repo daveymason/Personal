@@ -1148,6 +1148,16 @@ Version: 0.1
   padding-bottom: 2%;
 }
 
+#dataIntro{
+  color: whitesmoke;
+  /* background: linear-gradient(90deg, #525252, #080808); */
+  background-image: url("Images/daveymasonData.jpg"), linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8%;
+  padding-bottom: 2%;
+}
 .btn-scf:hover{
   background-color: white;
   color: lightgreen;
