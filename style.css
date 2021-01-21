@@ -310,7 +310,7 @@ Version: 0.1
     background-image: url("Images/daveymasonintrbackgroundimage.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 90vh;  
+    /* height: 90vh;   */
     padding-right: 5%;
     padding-left: 5%;
   }
@@ -364,8 +364,6 @@ Version: 0.1
   .borderless{
     border: 0px !important;
   }
-  
- 
 
   .ServicesIcon{
     font-size: 5rem !important;
@@ -1168,3 +1166,8 @@ Version: 0.1
   background-color: rgba(216, 186, 218, 0.383) !important;
 }
 
+@media (max-width: 600px) {
+  .hideMobile {
+    display:none;
+  }
+}

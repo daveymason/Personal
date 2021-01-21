@@ -2,7 +2,7 @@
     <div class="container-fluid" id="Intro">
       <hr id="whiteSep">
 
-          <div class="row halfSize topMargin" id="whiteText">
+          <div class="row topMargin bottomPadding" id="whiteText">
             <div class="col-sm-8 text-center">
                 <h1 class="display-3">Web Developer</h1>
                 <p>Tech Enthusiast | Hardcore Gamer | Space Geek.</p>
@@ -12,15 +12,15 @@
               <div class="rowSocial">
                 <button type="button" class="btn btn-li hvr-float-shadow"><a href="https://www.linkedin.com/in/david-mason-1623277b/" target="_blank"><i class="fab fa-linkedin-in bigStyleLi"></i></a></button>
                 <button type="button" class="btn btn-git hvr-float-shadow"><a href="https://www.github.com/davidmason5" target="_blank"><i class="fab fa-github bigStyleGh"></i></a></button>
-                <button type="button" class="btn hvr-float-shadow"><a href="#" target="_blank"><i class="fas fa-id-card bigStyleCV"></i></a></button>
+                <button type="button" class="btn hvr-float-shadow"><a href="https://daveymason.com/wp-content/uploads/2021/01/David-Mason-CV.pdf" target="_blank"><i class="fas fa-id-card bigStyleCV"></i></a></button>
               </div>
             </div>
           </div>
         <!-- </div>
 
       <div class="container-fluid" id="About"> -->
-        <div class="row halfSize">
-          <div class="col-sm-6">
+        <div class="row">
+          <div class="col-sm-12 col-md-6 hideMobile">
             <div class="card bottomMargin">
               <div class="card-header cardHeadGreen">
                 <h2>Credentials</h2>
@@ -37,7 +37,7 @@
             </div>
           </div>
             
-          <div class="col-sm-6">
+          <div class="col-sm-12 col-md-6">
             <div class="card bottomMargin">
               <div class="card-header cardHeadYellow">
                 <h2>Tech Stack</h2>
