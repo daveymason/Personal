@@ -1193,3 +1193,8 @@ Version: 0.1
 .extraPadding{
   padding:2% 12% 2% 12%;
 }
+
+/*Data Page*/
+.dataBody{
+  padding: 5%;
+}

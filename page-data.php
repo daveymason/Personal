@@ -40,7 +40,7 @@
                 <div class="card-header headerNav">
                     <h2>How do you protect my data?</h2>
                 </div>
-                <div class="card-body">
+                <div class="card-body dataBody">
                     <div class="row">
                         <div class="col-xs-12">
                             <h3>Minimisation</h3>
@@ -56,6 +56,7 @@
                             <h3>EU hosting</h3>
                             <p>With a server hosted in Amsterdam there will be no worries about your data leaving the EU. All fonts are also downloaded onto the server, so the site itself will not need to contact the Google fonts API. </p> 
                             <p><b>Note: If I choose to e-mail you then I'll use Microsoft outlook to send you an e-mail. </b></p> 
+                            <hr><br>
                             <h3>Encryption</h3>
                             <p>I use an SSL certificate to encrypt and protect your data. This ensures that nobody can steal your data while it's on the move</p>
                             <hr><br>
@@ -79,7 +80,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <p>By agreeing to these terms you acknowledge that your first name and e-mail address can be stored on the backend of my site for a maximum of 30 days. </p>
-                            <p>You also agree that I can contact you by e=mail to reply to you.</p>
+                            <p>You also agree that I can contact you by e-mail to reply to you.</p>
                             <hr>
                             <p>If you have any questions, concerns or queries then please feel free to <a href="/contact">Contact Me</a>.</p>
                             <p><b>Remember that this is your data, and you have the right to demand the highest possible standards to protect it.<b></p>
