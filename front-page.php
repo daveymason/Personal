@@ -107,9 +107,9 @@
                           <a target="_blank" href="https://competent-minsky-e1c6eb.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/PokeSearch.jpg" alt="Davey Mason" width="75%" height="auto"></a>
                           </div>
                           <div class="col-xs-12 col-md-6">
-                              <p class="paddedText"> Remember yuor favrite Pokemon? Well search for them here to find some information about them. Built in <b>React</b> using <b>Netifly's CI/CD</b> process, this web search app using the PokeAPI to gather information on over 800 Pokemon! How many can you name? </p>
+                              <p class="paddedText"> Remember your favrite Pokemon? Well search for them here to find some information about them. Built in <b>React</b> using <b>Netifly's CI/CD</b> process, this web search app using the PokeAPI to gather information on over 800 Pokemon! How many can you name? </p>
                               <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
-                              <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
+                              <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/PokedexReact" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
                           </div>
                       </div>
                   </div>
@@ -140,7 +140,8 @@
               </div>
           </div>
         </div> <!-- id="websitesRow" -->
-        <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/websites" role="button">All Websites <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+        <a target="_blank" class="btn btn-projectsWebsites btn-md" href="/daveymason.com/projects" role="button">All Projects <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+
   </div> <!-- Card -->
 <div class="bottomMargin"></div>
 
@@ -231,7 +232,7 @@
               </div>
           </div>
       </div> <!-- id="websitesRow" -->
-      <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/projects" role="button">All Projects <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+      <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/websites" role="button">All Websites <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
   </div> <!-- Card -->
   <div class="bottomPadding"></div>
 </div>

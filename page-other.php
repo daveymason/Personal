@@ -15,6 +15,32 @@
 <!-- FP: This next part should be a post loop -->
 <div class="container-fluid" id="projectsContainer">
 
+        <div class="row" id="websitesRow">
+            <div class="col-xs-12 text-center">
+              <div class="card cardNav">
+                  
+                  <div class="card-header headerNav">
+                      <h2><a href="https://competent-minsky-e1c6eb.netlify.app/">PokeSearch</a></h2>
+                  </div>
+                  <div class="card-body">
+                      <div class="row">
+                          <div class="col-xs-12 col-md-4">
+                          <a target="_blank" href="https://competent-minsky-e1c6eb.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/otherPokeSearch.jpg" alt="Davey Mason" width="75%" height="auto"></a>
+                      </div>
+                          <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
+                              <p class="paddedText"> Remember your favrite Pokemon? Well search for them here to find some information about them. Built in <b>React</b> using <b>Netifly's CI/CD</b> process, this web search app using the PokeAPI to gather information on over 800 Pokemon! How many can you name?</p>
+                          </div>
+                          <div class="col-xs-12 col-md-3 d-flex align-items-center gamesCenterButton">    
+                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+                                 <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/PokedexReact" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+                            </p>                       
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div> <!-- id="websitesRow" -->
+
           <div class="row" id="websitesRow">
             <div class="col-xs-12 text-center">
               <div class="card cardNav">
@@ -46,12 +72,12 @@
               <div class="card cardNav">
                   
                   <div class="card-header headerNav">
-                      <h2><a href="https://festive-knuth-57fdf6.netlify.app/">WordPress plugin - Social Links!</a></h2>
+                      <h2><a href="https://github.com/davidmason5/FatHeadLinks">WordPress plugin - Social Links!</a></h2>
                   </div>
                   <div class="card-body">
                       <div class="row">
                           <div class="col-xs-12 col-md-4">
-                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/otherFatHeadLinks.png" alt="Davey Mason" width="75%" height="auto"></a>
+                          <a target="_blank" href="https://github.com/davidmason5/FatHeadLinks"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/otherFatHeadLinks.png" alt="Davey Mason" width="75%" height="auto"></a>
                       </div>
                           <div class="col-xs-12 col-md-5 d-flex align-items-center text-center">
                               <p class="paddedText"> A simple <b>WordPress plugin</b> that displays Social Media links in a WordPress widget area. The plugin was developed in <b>Php</b> and can be downloaded and installed easily for use. </p>
