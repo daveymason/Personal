@@ -98,18 +98,33 @@
           <div class="col-sm-12 col-xl-6 text-center">
               <div class="card cardNav">
                   
-                  <div class="card-header headerNav">
+                  <!-- <div class="card-header headerNav">
                       <h2><a href="https://eloquent-colden-14ba2b.netlify.app/">TIC-TAC-TOE</a></h2>
                   </div>
                   <div class="card-body">
                       <div class="row">
                           <div class="col-xs-12 col-md-6">
                           <a target="_blank" href="https://eloquent-colden-14ba2b.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/tictactoe.png" alt="Davey Mason" width="75%" height="auto"></a>
-                      </div>
+                          </div>
                           <div class="col-xs-12 col-md-6">
                               <p class="paddedText"> A fun game that I built for my students when I thought them how to play Tic-Tac-Toe. It was also a reason to start building projects using <b>React</b> following the documentation on the site. I also had the chance to test out <b>Netifly's CI/CD</b> process which really impresed me. </p>
                               <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://eloquent-colden-14ba2b.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
                               <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/tic-tac-toe" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
+                          </div>
+                      </div>
+                  </div> -->
+                  <div class="card-header headerNav">
+                      <h2><a href="https://competent-minsky-e1c6eb.netlify.app/">PokéSearch</a></h2>
+                  </div>
+                  <div class="card-body">
+                      <div class="row">
+                          <div class="col-xs-12 col-md-6">
+                          <a target="_blank" href="https://competent-minsky-e1c6eb.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/PokeSearch.jpg" alt="Davey Mason" width="75%" height="auto"></a>
+                          </div>
+                          <div class="col-xs-12 col-md-6">
+                              <p class="paddedText"> Remember yuor favrite Pokemon? Well search for them here to find some information about them. Built in <b>React</b> using <b>Netifly's CI/CD</b> process, this web search app using the PokeAPI to gather information on over 800 Pokemon! How many can you name? </p>
+                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+                              <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
                           </div>
                       </div>
                   </div>
