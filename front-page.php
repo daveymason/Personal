@@ -98,21 +98,6 @@
           <div class="col-sm-12 col-xl-6 text-center">
               <div class="card cardNav">
                   
-                  <!-- <div class="card-header headerNav">
-                      <h2><a href="https://eloquent-colden-14ba2b.netlify.app/">TIC-TAC-TOE</a></h2>
-                  </div>
-                  <div class="card-body">
-                      <div class="row">
-                          <div class="col-xs-12 col-md-6">
-                          <a target="_blank" href="https://eloquent-colden-14ba2b.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/tictactoe.png" alt="Davey Mason" width="75%" height="auto"></a>
-                          </div>
-                          <div class="col-xs-12 col-md-6">
-                              <p class="paddedText"> A fun game that I built for my students when I thought them how to play Tic-Tac-Toe. It was also a reason to start building projects using <b>React</b> following the documentation on the site. I also had the chance to test out <b>Netifly's CI/CD</b> process which really impresed me. </p>
-                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://eloquent-colden-14ba2b.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
-                              <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/tic-tac-toe" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
-                          </div>
-                      </div>
-                  </div> -->
                   <div class="card-header headerNav">
                       <h2><a href="https://competent-minsky-e1c6eb.netlify.app/">PokéSearch</a></h2>
                   </div>
@@ -130,6 +115,7 @@
                   </div>
               </div>
           </div>
+              
       
     
           <div class="col-sm-12 col-xl-6 text-center">
@@ -144,7 +130,7 @@
                           <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/pokedex.png" alt="Davey Mason" width="75%" height="auto"></a>
                       </div>
                           <div class="col-xs-12 col-md-6">
-                              <p class="paddedText"> Written in <b>jQuery Mobile</b> I made my own JSON file of the first 151 Pokemon and learned a great deal about how to use it and output via HTML. I had great fun with this and enjoyed jQuery mobile very much. It's hosted on Netilfy to reinforce the CI/CD process learned.</p>
+                              <p class="paddedText"> Written in <b>jQuery Mobile</b> I made my own <b>JSON</b> file of the first 151 Pokemon and learned a great deal about how to use it and output via <b>HTML</b>. I had great fun with this and enjoyed jQuery mobile very much. It's hosted on Netilfy to reinforce the CI/CD process learned.</p>
                               <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://festive-knuth-57fdf6.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
                                  <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/Pokedex" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
                             </p>                       
@@ -154,6 +140,7 @@
               </div>
           </div>
         </div> <!-- id="websitesRow" -->
+        <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/websites" role="button">All Websites <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
   </div> <!-- Card -->
 <div class="bottomMargin"></div>
 
