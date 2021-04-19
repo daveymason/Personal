@@ -22,7 +22,7 @@
                 <div class="card-header headerNav">
                     <h2>What data is collected, how and why?</h2>
                 </div>
-                <div class="card-body">
+                <div class="card-body dataBody">
                     <div class="row">
                         <div class="col-xs-12">
                             <p>On the contact page there is a form that collects your name and e-mail address. This data is used to contact you and address you correctly. Each submission is stored on the back-end of WordPress and deleted immediately when read, or automatically after 30 days. </p>
@@ -76,7 +76,7 @@
                 <div class="card-header headerNav">
                     <h2>Sound good?</h2>
                 </div>
-                <div class="card-body">
+                <div class="card-body dataBody">
                     <div class="row">
                         <div class="col-xs-12">
                             <p>By agreeing to these terms you acknowledge that your first name and e-mail address can be stored on the backend of my site for a maximum of 30 days. </p>

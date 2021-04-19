@@ -28,10 +28,11 @@
               <div class="card-body">
                 <p>Some of my academic certificates & experience. </p>
                 <ul>
-                  <li>Postgraduate module in Software Development with the Open University - 2019</li>
-                  <li>Worked as a Web Developer for 18 months in Ireland - 2019</li>
-                  <li>B.Sc. in Digital Technology and Design at DIT - 2018</li>
-                  <li>B.Sc in Applied Physics and Instrumentation at CIT - 2014</li>
+                  <li>Volunteer as a Web Developer for <a href="https://serve.ie">Serve.ie</a>.</li>
+                  <li>Worked as a Web Developer for 18 months in Ireland.</li>
+                  <li>Postgraduate module in Software Development with the Open University - 2019.</li>
+                  <li>B.Sc. in Digital Technology and Design at DIT - 2018.</li>
+                  <li>B.Sc in Applied Physics and Instrumentation at CIT - 2014.</li>
                 </ul>
               </div>
             </div>
@@ -55,7 +56,6 @@
                 <i class="fab fa-chrome techStackIcon"></i>
                 <i class="fab fa-windows techStackIcon"></i>
                 <i class="fab fa-stack-overflow techStackIcon"></i>
-                <i class="fab fa-raspberry-pi techStackIcon"></i>
                 <i class="fab fa-hooli techStackIcon"></i> 
                 <i class="fas fa-coffee techStackIcon"></i> 
                 <!-- <i class="fab fab fa-pied-piper-alt techStackIcon"></i> -->
