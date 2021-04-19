@@ -172,6 +172,8 @@ Version: 0.1
   
   .projectsCard{
     background-color: rgba(123, 122, 189, 0.383);
+    margin-right: 5%;
+    margin-left: 5%;
     /* margin-bottom: 2%; */
   }
   .badge{

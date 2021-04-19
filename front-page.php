@@ -92,7 +92,7 @@
 
       <div class="card projectsCard">
       <div class="card-header cardHeadBlue" id="whiteText">
-        <h2>Personal</h2>
+        <h2>React.js</h2>
       </div>
         <div class="row" id="websitesRow">
           <div class="col-sm-12 col-xl-6 text-center">
@@ -140,7 +140,7 @@
               </div>
           </div>
         </div> <!-- id="websitesRow" -->
-        <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/projects" role="button">All Projects <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+        <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://daveymason.com/projects" role="button">All Projects <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
 
   </div> <!-- Card -->
 <div class="bottomMargin"></div>
@@ -160,7 +160,7 @@
                       <div class="row">
                           <div class="col-xs-12 col-md-6">
                           <a target="_blank" href="https://terrifictaiyuan.com"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsTerrificTaiyuan.png" alt="Davey Mason" width="75%" height="auto"></a>
-                      </div>
+                          </div>
                           <div class="col-xs-12 col-md-6">
                               <p class="paddedText"> What started out as a fun side project to learn about the site building tool Elementor, the Terrific Taiyuan website became the go-to guide for English speakers living in, moving to or visiting Taiyuan city. The site lists and categorises bars, restaurants, services and highlights some of the best sightseeing locations in the city. The site also has a listings page where companies can post jobs for English speakers in Taiyuan. I use my own photography and wrote all content for the site.</p>
                               <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://terrifictaiyuan.com" role="button">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
@@ -224,7 +224,7 @@
                           <a target="_blank" href="https://learnwithdavey.com"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/projectsLearnWithDavey.png" alt="Davey Mason" width="75%" height="auto"></a>
                       </div>
                           <div class="col-xs-12 col-md-6">
-                              <p class="paddedText"> LearnWithDavey.com is a personal project that has a few uses. Primarily the homepage is used to attract new students to study with me online but in the background I have an LMS (LearnDash) that I share with my university students so that they can practice what they learn in my classes. This was especially useful during the Coronavirus outbreak when the college semester was delayed by two months, my students were still able to continue with their classes and submit coursework.</p>
+                              <p class="paddedText"> LearnWithDavey.com is a personal project that is used to attract new students to study with me online but in the background I have an LMS (LearnDash) that I share with my university students so that they can practice what they learn in my classes. This was especially useful during the Coronavirus outbreak when the college semester was delayed by two months, my students were still able to continue with their classes and submit coursework.</p>
                               <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://learnwithdavey.com" role="button">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
                           </div>
                       </div>
@@ -232,7 +232,7 @@
               </div>
           </div>
       </div> <!-- id="websitesRow" -->
-      <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="/daveymason.com/websites" role="button">All Websites <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+      <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://daveymason.com/websites" role="button">All Websites <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
   </div> <!-- Card -->
   <div class="bottomPadding"></div>
 </div>
