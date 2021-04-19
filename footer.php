@@ -10,7 +10,7 @@
         </div>
         
          <div class="col-md-4 centerAll">
-             <button type="button" class="btn hvr-float-shadow"><a href="mailto:daveymason@outlook.com" target="_blank"><i class="fas fa-columns bigStyleContact ServIconShake4"></i></a></button>
+             <button type="button" class="btn hvr-float-shadow"><a href="/contact" target="_blank"><i class="fas fa-columns bigStyleContact ServIconShake4"></i></a></button>
             <p><a class="btn btn-contact btn-lg" href="/contact" role="button">Contact Page <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>  
         </div>  
       </div>
