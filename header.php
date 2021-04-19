@@ -53,7 +53,7 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="https://daveymason.com/affiliate">
+              <a class="nav-link disabled" href="https://daveymason.com/">
                 <i class="fas fa-bullseye">
                 </i>
                 Affiliate <span class="badge badge-primary">Soon</span>
