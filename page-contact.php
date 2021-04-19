@@ -62,7 +62,7 @@
             </div>
             <div class="col-sm-4 bottomPadding">
               <h2 class="display-3">C.V </h2>
-                <button type="button" class="btn hvr-float-shadow"><a href="https://daveymason.com/wp-content/uploads/2021/01/David-Mason-CV.pdf" target="_blank"><i class="fas fa-id-card bigStyleCV"></i></a></button>
+                <button type="button" class="btn hvr-float-shadow"><a href="https://daveymason.com/wp-content/uploads/2021/04/David-Mason-CV.pdf" target="_blank"><i class="fas fa-id-card bigStyleCV"></i></a></button>
               
             </div>
           </div>
