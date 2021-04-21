@@ -62,25 +62,12 @@
             </div>
           </div>
          </div><!-- row  -->
-          <!-- <div class="col-sm-4">
-            <div class="card text-center borderless">
-              <div class="card-header cardHeadViolet">
-                <h2>About</h2>
-              </div>
-              <div class="card-body">
-                <h5 class="card-title">Naturally logical, curious & analytical. <br> I love all things technological.</h5>
-                <img class="img-responsive" src="https://daveymason.com/wp-content/themes/Personal/Images/Davey Mason.jpg" alt="Davey Mason" width="75%" height="auto"> 
-              </div>
-            </div> -->
           </div>
         </div>
     </div>
 
-    <!-- <div class="container-fluid" id="Projects"> -->
-      
-
   <div class="container-fluid" id="projectsContainer">
-      <div class="row">
+      <div class="row projectsRow">
         <div class="col-sm-12 text-center bottomMargin servicesPadding">
             <h2 class="display-3"><i class="fas fa-code navDevelopIcon">
             </i>
@@ -89,58 +76,37 @@
         </div>
       </div>
 
-      <div class="card projectsCard">
-      <div class="card-header cardHeadBlue" id="whiteText">
-        <h2>React.js</h2>
+    <div class="cardContainer">
+      <div class="panel active" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/pokesearchBig-scaled.jpg);">
+          <h3><a href="https://competent-minsky-e1c6eb.netlify.app/" target="_blank">PokéSearch</a></h3>
+          <p> Built in <b>React</b> using Netifly's CI/CD process, this web search app using the PokeAPI to gather information on over 800 Pokemon! <br><br>
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/PokedexReact" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+          </p>
       </div>
-        <div class="row" id="websitesRow">
-          <div class="col-sm-12 col-xl-6 text-center">
-              <div class="card cardNav">
-                  
-                  <div class="card-header headerNav">
-                      <h2><a href="https://competent-minsky-e1c6eb.netlify.app/">PokéSearch</a></h2>
-                  </div>
-                  <div class="card-body">
-                      <div class="row">
-                          <div class="col-xs-12 col-md-6">
-                          <a target="_blank" href="https://competent-minsky-e1c6eb.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/PokeSearch.jpg" alt="Davey Mason" width="75%" height="auto"></a>
-                          </div>
-                          <div class="col-xs-12 col-md-6">
-                              <p class="paddedText"> Remember your favrite Pokemon? Well search for them here to find some information about them. Built in <b>React</b> using <b>Netifly's CI/CD</b> process, this web search app using the PokeAPI to gather information on over 800 Pokemon! How many can you name? </p>
-                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
-                              <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/PokedexReact" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>                       
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-              
-      
-    
-          <div class="col-sm-12 col-xl-6 text-center">
-              <div class="card cardNav">
-                  
-                  <div class="card-header headerNav">
-                      <h2><a href="https://festive-knuth-57fdf6.netlify.app/">Pokedex</a></h2>
-                  </div>
-                  <div class="card-body">
-                      <div class="row">
-                          <div class="col-xs-12 col-md-6">
-                          <a target="_blank" href="https://festive-knuth-57fdf6.netlify.app/"><img class="img-responsive hvr-float-shadow bottomMargin" src="https://daveymason.com/wp-content/themes/Personal/Images/pokedex.png" alt="Davey Mason" width="75%" height="auto"></a>
-                      </div>
-                          <div class="col-xs-12 col-md-6">
-                              <p class="paddedText"> Written in <b>jQuery Mobile</b> I made my own <b>JSON</b> file of the first 151 Pokemon and learned a great deal about how to use it and output via <b>HTML</b>. I had great fun with this and enjoyed jQuery mobile very much. It's hosted on Netilfy to reinforce the CI/CD process learned.</p>
-                              <p><a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://festive-knuth-57fdf6.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
-                                 <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/Pokedex" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
-                            </p>                       
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-        </div> <!-- id="websitesRow" -->
+      <div class="panel" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/TicTacToeHpBg-scaled.jpg);">
+          <h3><a href="https://eloquent-colden-14ba2b.netlify.app/">TicTacToe</a></h3>
+          <p> Developed with <b>React</b>, I built this to play with my students as they enjoyed the game in the classroom. <br><br>
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://eloquent-colden-14ba2b.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/tic-tac-toe" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>          
+          </p>
+      </div>
+      <div class="panel" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/otherFatHeadLinks.png);">
+        <h3><a href="https://eloquent-colden-14ba2b.netlify.app/">FH Links</a></h3>
+          <p> A simple <b>WordPress plugin</b> developed using <b>Php</b> that displays Social Media links in a WordPress widget area.  <br><br>
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/FatHeadLinks/archive/main.zip" role="button">Download <i class="far fa-arrow-alt-circle-down"></i></a> ~
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/FatHeadLinks" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+          </p>
+      </div>
+      <div class="panel" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/pokedexHomePg-scaled.jpg);">
+          <h3><a href="https://festive-knuth-57fdf6.netlify.app/">Pokedex</a></h3>
+          <p> This <b>SPA</b> was developed with <b>jQuery Mobile</b>, I made my own <b>JSON</b> file of the original 151 Pokemon. <br><br>
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://festive-knuth-57fdf6.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
+            <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/Pokedex" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>          
+          </p>
+        </div>
+    </div> <!-- Container -->
 
-  </div> <!-- Card -->
 <div class="bottomMargin"></div>
 
     <div class="card projectsCard">

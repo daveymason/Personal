@@ -93,7 +93,7 @@
       </div>
     </footer>
 
-    
+    <script src="<?php bloginfo('template_directory'); ?>/js/script.js" ></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/jquery.js" ></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.js"></script> 
   </body> 
