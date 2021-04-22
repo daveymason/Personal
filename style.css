@@ -1222,59 +1222,42 @@ Version: 0.1
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: #fff !important;
-  cursor: pointer !important;
+  cursor: ew-resize;
   flex: 0.5;
   margin: 10px;
   position: relative;
   -webkit-transition: all 700ms ease-in;
 }
 
-.panel h3 {
-  font-size: 2rem;
-  position: absolute;
-  top: 2%;
-  left: 2%;
-  margin: 0;
-  opacity: 0;
-}
 
 .panel a {
   color: whitesmoke;
+ 
 }
 
 .panel p {
-  font-size: 1rem;
+  font-size: 1.1rem;
   position: absolute;
-  bottom: 2%;
+  bottom: 1%;
   margin: 0;
   opacity: 0;
   color: black;
+  text-align: center;
+  align-items: center;
 }
 
 .panel.active {
   flex: 5;
 }
 
-.panel.active h3 {
-  opacity: 1;
-  transition: opacity 0.3s ease-in 0.4s;
-  z-index: 2;
-  cursor: pointer;
-  margin: 4% 5%;
-  padding: 2%;
-  position: absolute;
-  background-color: rgba(0, 0, 255)
-}
-
 .panel.active p {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.4s;
   position: absolute;
-  background-color: rgba(255, 255, 255, 0.733);
+  background-color: rgba(255, 255, 255, 0.849);
   z-index: 2;
-  cursor: pointer;
-  margin: 5%;
+  cursor: alias !important;
+  margin: 3%;
   padding: 2%;
 }
 

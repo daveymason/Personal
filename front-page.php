@@ -78,28 +78,24 @@
 
     <div class="cardContainer">
       <div class="panel active" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/pokesearchBig-scaled.jpg);">
-          <h3><a href="https://competent-minsky-e1c6eb.netlify.app/" target="_blank">PokéSearch</a></h3>
           <p> Built in <b>React</b> using Netifly's CI/CD process, this web search app using the PokeAPI to gather information on over 800 Pokemon! <br><br>
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://competent-minsky-e1c6eb.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/PokedexReact" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
           </p>
       </div>
       <div class="panel" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/TicTacToeHpBg-scaled.jpg);">
-          <h3><a href="https://eloquent-colden-14ba2b.netlify.app/">TicTacToe</a></h3>
           <p> Developed with <b>React</b>, I built this to play with my students as they enjoyed the game in the classroom. <br><br>
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://eloquent-colden-14ba2b.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/tic-tac-toe" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>          
           </p>
       </div>
       <div class="panel" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/otherFatHeadLinks.png);">
-        <h3><a href="https://eloquent-colden-14ba2b.netlify.app/">FH Links</a></h3>
           <p> A simple <b>WordPress plugin</b> developed using <b>Php</b> that displays Social Media links in a WordPress widget area.  <br><br>
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/FatHeadLinks/archive/main.zip" role="button">Download <i class="far fa-arrow-alt-circle-down"></i></a> ~
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/FatHeadLinks" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
           </p>
       </div>
       <div class="panel" style="background-image: url(https://daveymason.com/wp-content/uploads/2021/04/pokedexHomePg-scaled.jpg);">
-          <h3><a href="https://festive-knuth-57fdf6.netlify.app/">Pokedex</a></h3>
           <p> This <b>SPA</b> was developed with <b>jQuery Mobile</b>, I made my own <b>JSON</b> file of the original 151 Pokemon. <br><br>
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://festive-knuth-57fdf6.netlify.app/" role="button">Demo <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a> ~
             <a target="_blank" class="btn btn-projectsWebsites btn-lg" href="https://github.com/davidmason5/Pokedex" role="button">Code <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>          
