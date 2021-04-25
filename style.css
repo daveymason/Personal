@@ -1229,10 +1229,8 @@ Version: 0.1
   -webkit-transition: all 700ms ease-in;
 }
 
-
 .panel a {
   color: whitesmoke;
- 
 }
 
 .panel p {
@@ -1261,7 +1259,6 @@ Version: 0.1
   padding: 2%;
 }
 
-
 @media (max-width: 480px) {
   .cardContainer {
     width: 100vw;
@@ -1271,4 +1268,58 @@ Version: 0.1
   .panel:nth-of-type(5) {
     display: none;
   }
+}
+
+/*Websites Slider*/
+.websitesSliderContainer {
+  margin: 0 10%;
+  min-height: 90vh;
+  display: grid;
+  place-items: center;
+}
+.websiteSlider {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 1.5rem 2rem;
+  border-radius: 0.25rem;
+  box-shadow:  0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s linear;
+  text-align: center;
+}
+.websiteSlider:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+#site-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  object-fit: cover;
+  position: relative;
+  text-align: center;
+  align-items: center;
+}
+
+#title {
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  color: #0000ff;
+  font-size: 0.85rem;
+}
+#info {
+  margin-bottom: 0.75rem;
+}
+.prev-btn,
+.next-btn {
+  color: #0000ff;
+  font-size: 1.25rem;
+  background: transparent;
+  border-color: transparent;
+  margin: 0 0.5rem;
+  transition: all 0.3s linear;
+  cursor: pointer;
+}
+.prev-btn:hover,
+.next-btn:hover {
+  color: hsl(205, 79%, 60%);
 }
