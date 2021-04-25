@@ -66,7 +66,7 @@
         </div>
     </div>
 
-  <div class="container-fluid" id="projectsContainer">
+  <div class="container-fluid" id="projectsContainerHomePage">
       <div class="row projectsRow">
         <div class="col-sm-12 text-center bottomMargin servicesPadding">
             <h2 class="display-4"><i class="fas fa-code navDevelopIcon">
