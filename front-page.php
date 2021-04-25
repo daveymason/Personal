@@ -238,5 +238,5 @@
     <hr class="blogSplit"> -->
 
 
-
+    <script src="<?php bloginfo('template_directory'); ?>/js/script.js" ></script>
 <?php get_footer(); ?>
