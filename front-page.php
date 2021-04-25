@@ -109,7 +109,7 @@
       <section class="websitesSliderContainer">
         <div class="row">
               <div class="col-sm-12 text-center bottomMargin servicesPadding">
-                  <h2 ><i class="fab fa-wordpress-simple ">
+                  <h2 ><i class="fab fa-wordpress-simple">
                   </i>
                   Websites</h2>
               </div>
@@ -223,7 +223,7 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fas fa-graduation-cap ServicesIcon ServIconShake4"></i>
-              <h5 class="card-title textPadding">Interested in doing what I do? Check out my online learning website. </h5>
+              <h5 class="card-title textPadding">Care for some online tutorting in Web Development or English?</h5>
               <p><a class="btn btn-services btn-lg" href="https://learnwithdavey.com" role="button">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
