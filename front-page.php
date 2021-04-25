@@ -117,11 +117,11 @@
               <!-- websiteSlider -->
               <article class="websiteSlider">
                 <div class="img-container">
-                  <img src="https://daveymason.com/wp-content/uploads/2021/04/ResponsiveBlank.png" id="site-img" alt="Davey Mason Web Developer" />
+                  <img src="https://daveymason.com/wp-content/uploads/2021/04/TerrificTaiyuanResponsive.png" id="site-img" alt="Davey Mason Web Developer" />
                 </div>
                 <p id="title">Responsive Design</p>
                 <p id="info">
-                  Beautifully, responsinve websites that load quickly, consistently, and securely. Optimised for SEO and with the option to implment Google services. Everything you need at the one place.
+                  The go-to guide for English speakers living in, moving to or visiting Taiyuan city. This site lists and categorises bars, restaurants, services and highlights some of the best sightseeing locations in the city. It was important for the local businesses to have a presence on Google.
                 </p>
                 <p>
                   <button class="btn-link">
