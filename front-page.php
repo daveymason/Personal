@@ -69,7 +69,7 @@
   <div class="container-fluid" id="projectsContainer">
       <div class="row projectsRow">
         <div class="col-sm-12 text-center bottomMargin servicesPadding">
-            <h2 class="display-3"><i class="fas fa-code navDevelopIcon">
+            <h2 class="display-4"><i class="fas fa-code navDevelopIcon">
             </i>
             Projects</h2>
             <p>Websites | Games | Other</p>
@@ -102,41 +102,44 @@
           </p>
         </div>
     </div> <!-- Container -->
+                  </div>
 
-<div class="bottomMargin"></div>
-
-<section class="websitesSliderContainer">
-        <!-- title -->
-        <div class="title">
-          <h2>WordPress Websites</h2>
-          <div class="underline"></div>
-        </div>
-        <!-- websiteSlider -->
-        <article class="websiteSlider">
-          <div class="img-container">
-            <img src="https://daveymason.com/wp-content/uploads/2021/04/projectsTerrificTaiyuan.png" id="site-img" alt="" />
+    <hr class="otherProjectsSplit">
+    <div class="container-fluid" id="projectsContainer2">
+      <section class="websitesSliderContainer">
+        <div class="row">
+              <div class="col-sm-12 text-center bottomMargin servicesPadding">
+                  <h2 ><i class="fab fa-wordpress-simple ">
+                  </i>
+                  Websites</h2>
+              </div>
+            </div>
+              <!-- websiteSlider -->
+              <article class="websiteSlider">
+                <div class="img-container">
+                  <img src="https://daveymason.com/wp-content/uploads/2021/04/projectsTerrificTaiyuan.png" id="site-img" alt="" />
+                </div>
+                <p id="title">Website</p>
+                <p id="info">
+                  The go-to guide for English speakers living in, moving to or visiting Taiyuan city. This site lists and categorises bars, restaurants, services and highlights some of the best sightseeing locations in the city. It was important for the local businesses to have a presence on Google.
+                </p>
+                <p>
+                  <button class="btn-link">
+                    <a href="https://terrifictaiyuan.com" id="btn-link" target="_blank" class="btn btn-projectsWebsites btn-lg">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
+                  </button>
+                </p>
+                <!-- prev next buttons-->
+                <div class="button-container">
+                  <button class="prev-btn">
+                    <i class="fas fa-chevron-left"></i>
+                  </button>
+                  <button class="next-btn">
+                    <i class="fas fa-chevron-right"></i>
+                  </button>
+                </div>
+              </article>
+            </section>
           </div>
-          <p id="title">Website</p>
-          <p id="info">
-            The go-to guide for English speakers living in, moving to or visiting Taiyuan city. This site lists and categorises bars, restaurants, services and highlights some of the best sightseeing locations in the city. It was important for the local businesses to have a presence on Google.
-          </p>
-          <p>
-            <button class="btn-link">
-              <a href="https://terrifictaiyuan.com" id="btn-link" target="_blank" class="btn btn-projectsWebsites btn-lg">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a>
-            </button>
-          </p>
-          <!-- prev next buttons-->
-          <div class="button-container">
-            <button class="prev-btn">
-              <i class="fas fa-chevron-left"></i>
-            </button>
-            <button class="next-btn">
-              <i class="fas fa-chevron-right"></i>
-            </button>
-          </div>
-        </article>
-      </section>
-  <div class="bottomPadding"></div>
 </div>
 
     <hr class="projectsSplit">
