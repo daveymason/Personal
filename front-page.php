@@ -3,12 +3,12 @@
       <hr id="whiteSep">
 
           <div class="row topMargin bottomPadding" id="whiteText">
-            <div class="col-sm-8 text-center bottomPadding">
+            <div class="col-sm-8 col-xs-12 text-center">
                 <h1 class="display-3">Web Developer</h1>
                 <p>Tech Enthusiast | Hardcore Gamer | Space Geek.</p>
                 <p><a class="btn btn-primary btn-lg hvr-float-shadow" href="https://daveymason.com/projects" role="button">Projects »</a></p>
             </div>
-            <div class="col-sm-4 bottomPadding">
+            <div class="col-sm-4 col-xs-12 bottomPadding">
               <div class="rowSocial">
                 <button type="button" class="btn btn-li hvr-float-shadow"><a href="https://www.linkedin.com/in/david-mason-1623277b/" target="_blank"><i class="fab fa-linkedin-in bigStyleLi"></i></a></button>
                 <button type="button" class="btn btn-git hvr-float-shadow"><a href="https://www.github.com/davidmason5" target="_blank"><i class="fab fa-github bigStyleGh"></i></a></button>
@@ -19,8 +19,8 @@
         <!-- </div>
 
       <div class="container-fluid" id="About"> -->
-        <div class="row bottomPadding">
-          <div class="col-sm-12 col-md-6 hideMobile">
+        <div class="row bottomPadding hideMobile align-items-center">
+          <div class="col-sm-12 col-md-6 ">
             <div class="card bottomMargin">
               <div class="card-header cardHeadGreen">
                 <h2>Credentials</h2>
@@ -152,6 +152,7 @@
             Services</h2>
             <p>Online | Remote | Whenever | Wherever</p>
         </div>
+
       </div>
       <div class="row websitesRow">
         <div class="col-sm-12 col-xl-4 bottomMargin">
@@ -161,8 +162,8 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fab fa-wordpress ServicesIcon ServIconShake1"></i>
-              <h5 class="card-title textPadding">Need a custom theme or plugin? How about a security or a speed upgrade?</h5>
-              <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/wordpress" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+              <p class="card-title textPadding">Need a custom theme or plugin? How about a security or a speed upgrade?</p>
+              <p><a class="btn btn-services btn-md" href="https://daveymason.com/services/wordpress" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
         </div>
@@ -173,8 +174,8 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fas fa-tablet-alt ServicesIcon ServIconShake5"></i>
-              <h5 class="card-title textPadding">Profficient in HTML, CSS & JavaScript, like every web developer should be.</h5>
-              <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/frontenddevelopment" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+              <p class="card-title textPadding">Profficient in HTML, CSS & JavaScript, like every web developer should be.</p>
+              <p><a class="btn btn-services btn-md" href="https://daveymason.com/services/frontenddevelopment" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
         </div>
@@ -185,13 +186,13 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fas fa-globe ServicesIcon ServIconShake3"></i>
-              <h5 class="card-title textPadding">Design, development, domains, hosting or anything else that you might need.</h5>
-              <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/webdevelopment" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+              <p class="">Design, development, domains, hosting or anything else that you might need.</p>
+              <p><a class="btn btn-services btn-md" href="https://daveymason.com/services/webdevelopment" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
         </div>
       </div>
-      <div class="row websitesRow">
+    <div class="row websitesRow">
       <div class="col-sm-12 col-xl-4 bottomMargin">
           <div class="card text-center">
             <div class="card-header cardHeadViolet">
@@ -199,8 +200,8 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fab fa-google ServicesIcon ServIconShake6"></i>
-              <h5 class="card-title textPadding">Consulting or technical? Also comfortable with the entire G suite.</h5>
-              <p><a class="btn btn-services btn-lg" href="https://daveymason.com/services/seo" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+              <p class="textPadding">Consulting or technical? Also comfortable with the entire G suite.</p>
+              <p><a class="btn btn-services btn-md" href="https://daveymason.com/services/seo" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
         </div>
@@ -211,8 +212,8 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fas fa-bug ServicesIcon ServIconShake2"></i>
-              <h5 class="card-title textPadding">Playability, language testing, functionality, design, bugs etc</h5>
-              <p><a class="btn btn-services btn-lg" href="https://daveymason.com/gamestester" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+              <p class="card-title textPadding">Playability, language, functionality, design, bugs, reviews at your service. </p>
+              <p><a class="btn btn-services btn-md" href="https://daveymason.com/gamestester" role="button">Learn More <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
         </div>
@@ -223,8 +224,8 @@
             </div>
             <div class="card-body semiTransparant">
               <i class="fas fa-graduation-cap ServicesIcon ServIconShake4"></i>
-              <h5 class="card-title textPadding">Care for some online tutorting in Web Development or English?</h5>
-              <p><a class="btn btn-services btn-lg" href="https://learnwithdavey.com" role="button">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
+              <p class="card-title textPadding">Care for some online tutorting in Web Development or English? Check here!</p>
+              <p><a class="btn btn-services btn-md" href="https://learnwithdavey.com" role="button">Visit Site <i class="far fa-arrow-alt-circle-right btnRightArrow"></i></a></p>
             </div>
           </div>
         </div>
@@ -236,7 +237,8 @@
 
 
     <hr class="blogSplit"> -->
-
-
-    <script src="<?php bloginfo('template_directory'); ?>/js/script.js" ></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/script.js" ></script> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
 <?php get_footer(); ?>

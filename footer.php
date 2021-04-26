@@ -93,8 +93,8 @@
       </div>
     </footer>
 
-    <script src="<?php bloginfo('template_directory'); ?>/js/jquery.js" ></script>
-    <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.js"></script> 
+    <!-- <script src="<?php bloginfo('template_directory'); ?>/js/jquery.js" ></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.js"></script>  -->
   </body> 
 </html>
 <?php wp_footer(); ?>
