@@ -12,7 +12,7 @@
               <div class="rowSocial">
                 <button type="button" class="btn btn-li hvr-float-shadow"><a href="https://www.linkedin.com/in/david-mason-1623277b/" target="_blank"><i class="fab fa-linkedin-in bigStyleLi"></i></a></button>
                 <button type="button" class="btn btn-git hvr-float-shadow"><a href="https://www.github.com/davidmason5" target="_blank"><i class="fab fa-github bigStyleGh"></i></a></button>
-                <button type="button" class="btn hvr-float-shadow"><a href="https://daveymason.com/wp-content/uploads/2021/04/David-Mason-CV.pdf" target="_blank"><i class="fas fa-id-card bigStyleCV"></i></a></button>
+                <button type="button" class="btn hvr-float-shadow"><a href="https://daveymason.com/wp-content/uploads/2021/05/David-Mason-CV.pdf" target="_blank"><i class="fas fa-id-card bigStyleCV"></i></a></button>
               </div>                                                       
             </div>
           </div>
